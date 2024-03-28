@@ -1,0 +1,780 @@
+address-book,contact, directory, phonebook, rolodex, address, name, phone, email, information, organization, business, personal, communication, networking, reference, lookup, search, manage, organize, store
+address-book-o,contact, directory, phonebook, rolodex, address, name, phone, email, information, organization, business, personal, communication, networking, reference, lookup, search, manage, organize, store
+address-card,identification, ID, card, license, credential, personal, contact, information, name, address, phone, email, organization, business, government, official, document
+address-card-o,identification, ID, card, license, credential, personal, contact, information, name, address, phone, email, organization, business, government, official, document
+bandcamp,music, audio, streaming, platform, community, independent, artist, band, album, song, share, discover, listen, promote
+bath,hygiene, cleanliness, grooming, relaxation, tub, shower, water, soap, shampoo, towel, bathroom, plumbing, fixture
+bathtub,hygiene, cleanliness, grooming, relaxation, tub, shower, water, soap, shampoo, towel, bathroom, plumbing, fixture
+drivers-license,identification, ID, card, credential, personal, transportation, vehicle, driving, government, official, document
+drivers-license-o,identification, ID, card, credential, personal, transportation, vehicle, driving, government, official, document
+eercast,technology, electronics, engineering, innovation, future, power, energy, electricity, circuit, chip, device
+envelope-open,communication, mail, letter, message, correspondence, delivery, postal, email, inbox, outbox, send, receive
+envelope-open-o,communication, mail, letter, message, correspondence, delivery, postal, email, inbox, outbox, send, receive
+etsy,crafts, handmade, art, design, shop, marketplace, online, creative, artisan, seller, buyer, community
+free-code-camp,education, learning, programming, coding, development, technology, open-source, community, resources, tutorials, certification
+grav,content, management, system, website, blog, publishing, development, open-source, cms, framework, platform
+handshake-o,agreement, partnership, collaboration, business, deal, contract, trust, greeting, connection, networking, professional
+id-badge,identification, credential, personal, information, name, photo, organization, employee, visitor, access, security
+id-card,identification, credential, personal, information, name, photo, organization, employee, visitor, access, security
+id-card-o,identification, credential, personal, information, name, photo, organization, employee, visitor, access, security
+imdb,movies, TV, entertainment, database, information, ratings, reviews, actors, directors, producers, industry
+linode,hosting, cloud, server, virtual, infrastructure, technology, web, development, deployment, scalability, performance
+meetup,community, events, networking, groups, interests, hobbies, social, connections, organization, collaboration, engagement
+microchip,technology, electronics, engineering, innovation, circuit, processor, computer, device, hardware, embedded, smart
+podcast,audio, digital, media, broadcasting, streaming, content, subscription, episodic, interview, discussion, education
+quora,questions, answers, knowledge, community, information, research, learning, discussion, expertise, crowdsourcing, platform
+ravelry,crafts, knitting, crochet, fiber, arts, community, patterns, projects, resources, social, sharing
+s15,technology, electronics, engineering, innovation, future, power, energy, electricity, circuit, chip, device
+shower,hygiene, cleanliness, grooming, relaxation, water, soap, shampoo, towel, bathroom, plumbing, fixture
+snowflake-o,winter, cold, ice, snow, weather, nature, crystal, unique, delicate, decoration, holiday
+superpowers,abilities, skills, talents, extraordinary, heroic, powerful, strength, intelligence, technology, innovation, future
+calendar-check-o,schedule, appointment, planner, organizer, task, event, date, time, confirm, verify, complete, done, tick, mark, approve, accept, agree, confirm, validate, acknowledge
+calendar-minus-o,schedule, appointment, planner, organizer, task, event, date, time, remove, delete, subtract, minimize, reduce, cancel, decline, reject
+calendar-o,schedule, appointment, planner, organizer, task, event, date, time, open, view, display, manage, plan, organize
+calendar-plus-o,schedule, appointment, planner, organizer, task, event, date, time, add, create, new, increase, expand, extend, grow
+calendar-times-o,schedule, appointment, planner, organizer, task, event, date, time, cancel, close, remove, delete, reject, decline
+camera,photo, picture, image, capture, record, document, memorialize, preserve, snapshot, selfie, video, film, lens, aperture, shutter
+camera-retro,vintage, classic, old-fashioned, analog, film, photography, nostalgia, memory, history, aesthetic, style, antique, retro
+cart-arrow-down,shopping, ecommerce, purchase, checkout, remove, delete, subtract, decrease, drop, lower, reduce
+cart-plus,shopping, ecommerce, purchase, add, new, increase, expand, extend, grow, increment
+certificate,award, diploma, credential, qualification, achievement, recognition, accreditation, license, permit, document, official, formal
+check,correct, right, true, verify, confirm, approve, accept, agree, tick, mark, complete, done
+check-circle,correct, right, true, verify, confirm, approve, accept, agree, complete, done, success, achievement
+check-circle-o,correct, right, true, verify, confirm, approve, accept, agree, complete, done, success, achievement, outline, empty
+child,young, kid, youth, infant, toddler, minor, juvenile, family, education, development, growth
+circle-thin,outline, empty, open, hollow, round, shape, geometry, minimalist, simple, clean
+clock-o,time, schedule, appointment, deadline, duration, hour, minute, second, watch, timer
+clone,copy, duplicate, replicate, reproduce, mirror, imitate, emulate, identical, similar
+close,exit, quit, leave, end, stop, terminate, shut, cancel, decline, reject, dismiss
+desktop,computer, screen, monitor, workspace, office, productivity, technology, device
+diamond,gem, jewel, crystal, shape, geometry, luxury, value, sparkle, shine
+eur,euro, currency, money, finance, economics, exchange, trade, international
+telegram,communication,messaging,social media,chat,instant messaging,text,mobile,app,platform,send,receive,group,channel,encryption,privacy,security,collaboration,connectivity,technology,digital
+thermometer,temperature,measurement,health,medical,fever,illness,diagnosis,monitoring,control,environment,weather,science,data,display,analog,digital,clinical,industrial,household,safety
+thermometer-0,temperature,measurement,low,cold,freezing,empty,minimum,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household
+thermometer-1,temperature,measurement,low,cold,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,minimal,partial,partial
+thermometer-2,temperature,measurement,medium,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,partial,moderate,average
+thermometer-3,temperature,measurement,high,hot,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,significant,elevated
+thermometer-4,temperature,measurement,very high,hot,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,critical,extreme
+thermometer-empty,temperature,measurement,low,cold,freezing,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,minimal,empty
+thermometer-full,temperature,measurement,high,hot,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,complete,full
+thermometer-half,temperature,measurement,medium,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,partial,average
+thermometer-quarter,temperature,measurement,low,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,partial,minimal
+thermometer-three-quarters,temperature,measurement,high,scale,display,analog,digital,health,medical,diagnosis,monitoring,environment,weather,science,data,household,partial,significant
+times-rectangle,close,exit,cancel,delete,remove,dismiss,window,interface,design,user experience,interaction,error,failure,rejection,denial,termination,annulment,abandonment,refusal
+times-rectangle-o,close,exit,cancel,delete,remove,dismiss,window,interface,design,user experience,interaction,error,failure,rejection,denial,termination,annulment,abandonment,refusal
+user-circle,person,profile,account,identity,avatar,icon,representation,social,digital,online,authentication,authorization,privacy,security,communication,interaction,engagement,community,network
+user-circle-o,person,profile,account,identity,avatar,icon,representation,social,digital,online,authentication,authorization,privacy,security,communication,interaction,engagement,community,network
+user-o,person,profile,account,identity,icon,representation,social,digital,online,anonymous,generic,default,placeholder,communication,interaction,engagement,community,network,accessibility
+vcard,contact,information,business,personal,digital,electronic,storage,management,organization,networking,communication,identification,data,profile,address,phone,email,social
+vcard-o,contact,information,business,personal,digital,electronic,storage,management,organization,networking,communication,identification,data,profile,address,phone,email,social
+window-close,close,exit,cancel,delete,remove,dismiss,interface,design,user experience,interaction,error,failure,rejection,denial,termination,annulment,abandonment,refusal,quit
+window-close-o,close,exit,cancel,delete,remove,dismiss,interface,design,user experience,interaction,error,failure,rejection,denial,termination,annulment,abandonment,refusal,quit
+window-maximize,expand,enlarge,fullscreen,maximize,size,interface,design,user experience,interaction,control,display,visibility,accessibility,productivity,efficiency
+window-minimize,collapse,shrink,minimize,size,interface,design,user experience,interaction,control,display,visibility,accessibility,productivity,efficiency
+window-restore,resize,adjust,scale,interface,design,user experience,interaction,control,display,visibility,accessibility,productivity,efficiency,revert,return
+wpexplorer,explore,discover,search,browse,navigate,travel,adventure,map,website,internet,technology,digital,content,information,resources,learning,research
+address-book,contacts,directory,list,organization,management,storage,communication,networking,business,personal,digital,electronic,data,profile,information
+address-book-o,contacts,directory,list,organization,management,storage,communication,networking,business,personal,digital,electronic,data,profile,information
+address-card,identification,business,personal,contact,information,data,profile,details,card,document,communication,networking,organization,management
+address-card-o,identification,business,personal,contact,information,data,profile,details,card,document,communication,networking,organization,management
+adjust,modify,change,customize,control,setting,configuration,optimization,adaptation,tuning,calibration,balance,correction,improvement,refinement
+american-sign-language-interpreting,communication,deaf,disability,hearing-impaired,interpretation,language,sign-language,translation
+anchor,boat,harbor,maritime,mooring,nautical,security,stability,support
+archive,data,document,history,information,library,preservation,record,storage
+area-chart,analysis,data,diagram,graph,information,statistics,visualization
+arrows,direction,movement,navigation,pointer,signage
+arrows-h,direction,horizontal,movement,navigation,pointer
+arrows-v,direction,movement,navigation,pointer,vertical
+asl-interpreting,communication,deaf,disability,hearing-impaired,interpretation,language,sign-language,translation
+assistive-listening-systems,accessibility,audio,disability,hearing,technology
+asterisk,annotation,emphasis,footnote,symbol
+at,communication,email,internet,social-media
+audio-description,accessibility,disability,hearing,media,narration,visual-impairment
+automobile,car,driving,transportation,vehicle
+balance-scale,balance,fairness,justice,law,measurement,weighing
+ban,forbidden,prohibition,restriction,rule
+bank,finance,institution,money,savings
+bar-chart,analysis,data,diagram,graph,information,statistics,visualization
+bar-chart-o,analysis,data,diagram,graph,information,statistics,visualization
+barcode,identification,inventory,product,scanning,technology
+bars,design,interface,menu,navigation,user-interface
+bath,bathroom,cleaning,hygiene,plumbing
+bathtub,bathroom,cleaning,hygiene,plumbing
+battery,charge,electricity,energy,power,technology
+battery-0,charge,electricity,energy,low,power,technology
+battery-1,charge,electricity,energy,low,power,technology
+battery-2,charge,electricity,energy,medium,power,technology
+battery-3,charge,electricity,energy,power,technology
+battery-4,charge,electricity,energy,full,power,technology
+battery-empty,charge,electricity,energy,low,power,technology
+battery-full,charge,electricity,energy,full,power,technology
+battery-half,power,charge,energy,half,partial,level,indicator,capacity,usage,device,electronics,mobile,laptop,phone,tablet,monitor,battery,discharge,recharge,life,status,percentage,visual,symbol,representation,display,technology,equipment,appliance
+battery-quarter,power,charge,energy,quarter,partial,level,indicator,capacity,usage,device,electronics,mobile,laptop,phone,tablet,monitor,battery,discharge,recharge,life,status,percentage,visual,symbol,representation,display,technology,equipment,appliance
+battery-three-quarters,power,charge,energy,three-quarters,partial,level,indicator,capacity,usage,device,electronics,mobile,laptop,phone,tablet,monitor,battery,discharge,recharge,life,status,percentage,visual,symbol,representation,display,technology,equipment,appliance
+bed,sleep,rest,relax,comfort,bedroom,hotel,home,furniture,mattress,pillow,blanket,sheet,sleep,dream,night,recovery,rejuvenation,relaxation,leisure,hospitality,accommodation,lodging,housing,interior,design,decor,lifestyle,health,wellness
+beer,alcohol,drink,beverage,celebration,party,social,bar,pub,restaurant,leisure,relaxation,enjoyment,refreshment,culture,tradition,community,socialization,recreation,festival,event,gathering,toast,cheer,indulgence,pleasure,taste,aroma,foam,glass
+bell,sound,alert,notification,warning,alarm,event,announcement,communication,signal,reminder,attention,emergency,school,church,clock,time,ringing,chime,toll,symbol,ritual,tradition,decoration,ornament
+bell-o,sound,alert,notification,warning,alarm,event,announcement,communication,signal,reminder,attention,emergency,school,church,clock,time,ringing,chime,toll,symbol,ritual,tradition,decoration,ornament
+bell-slash,sound,alert,notification,warning,alarm,event,announcement,communication,signal,reminder,attention,emergency,school,church,clock,time,ringing,chime,toll,symbol,ritual,tradition,decoration,ornament,disabled,mute,silent
+bell-slash-o,sound,alert,notification,warning,alarm,event,announcement,communication,signal,reminder,attention,emergency,school,church,clock,time,ringing,chime,toll,symbol,ritual,tradition,decoration,ornament,disabled,mute,silent
+bicycle,transportation,exercise,fitness,recreation,sport,activity,environment,eco-friendly,commute,travel,mobility,balance,pedal,wheel,gear,brake,helmet,safety,leisure,adventure,health,lifestyle
+binoculars,vision,observation,exploration,surveillance,birdwatching,hunting,sports,events,nature,scenery,landscape,distance,magnification,zoom,focus,optics,equipment,hobby,adventure,discovery,investigation,reconnaissance
+birthday-cake,celebration,party,event,cake,dessert,food,candles,wish,happy,joy,milestone,age,tradition,family,friends,gift,surprise,decoration,festive,indulgence,treat
+blind,vision,disability,accessibility,impairment,sight,eyes,assistance,aid,mobility,independence,navigation,orientation,braille,cane,guide,support,inclusion,awareness,empathy,compassion
+bluetooth,wireless,connectivity,technology,device,communication,pairing,syncing,data,transfer,audio,streaming,headphones,speakers,mobile,computer,internet,network,convenience,efficiency,compatibility
+bluetooth-b,wireless,connectivity,technology,device,communication,pairing,syncing,data,transfer,audio,streaming,headphones,speakers,mobile,computer,internet,network,convenience,efficiency,compatibility
+bolt,power,energy,electricity,lightning,speed,force,strength,danger,emergency,warning,symbol,icon,graphic,design,branding,logo,motion,dynamic,action,intensity
+bomb,explosive,danger,threat,war,conflict,destruction,violence,military,terrorism,attack,blast,explosion,weapon,hazard,fear,security,safety,caution,alarm,symbol,icon
+book,knowledge,information,education,learning,reading,literature,text,pages,cover,binding,library,study,research,reference,academic,intellectual,wisdom,culture,history,storytelling
+bookmark,page,document,file,save,organize,access,recall,reference,reading,research,study,digital,online,browser,internet,productivity,efficiency,organization,habit,preference
+bookmark-o,page,document,file,save,organize,access,recall,reference,reading,research,study,digital,online,browser,internet,productivity,efficiency,organization,habit,preference
+braille,vision,disability,accessibility,reading,writing,tactile,communication,language,literacy,education,independence,mobility,navigation,orientation,assistive,technology,inclusion,empathy,awareness
+briefcase,business,work,professional,executive,travel,organization,storage,documents,files,laptop,electronics,meetings,presentations,negotiations,career,finance,management,productivity,efficiency
+bug,error,problem,issue,defect,software,code,debugging,troubleshooting,technology,computer,programming,development,quality,testing,inspection,identification,resolution,fix,improvement
+building,architecture,structure,construction,design,urban,city,office,home,residence,commercial,industrial,government,public,facility,infrastructure,community,skyline,landscape,environment
+building-o,architecture,structure,construction,design,urban,city,office,home,residence,commercial,industrial,government,public,facility,infrastructure,community,skyline,landscape,environment
+bullhorn,announcement,announcement,communication,public,speech,event,rally,protest,emergency,warning,attention,promotion,marketing,advertising,outreach,advocacy,leadership,influence,impact
+bullseye,target,aim,goal,objective,focus,accuracy,precision,competition,sports,shooting,archery,strategy,planning,measurement,evaluation,success,achievement,skill,practice,performance
+bus,transportation,public,travel,commute,route,schedule,passengers,driver,vehicle,urban,suburban,rural,infrastructure,mobility,accessibility,environment,efficiency,convenience,community
+cab,transportation,taxi,ride,driver,passenger,urban,city,travel,commute,service,convenience,accessibility,mobility,business,industry,economy,employment,income,livelihood
+calculator,math,calculation,computation,finance,accounting,budgeting,planning,problem-solving,education,office,work,productivity,efficiency,decision-making,analysis,data,numbers,figures,statistics
+calendar,date,schedule,event,time,planner,agenda,appointment,organizer,diary,calendar-check-o,approved,verified,confirmed,completed,accepted,marked,checked,validated,accepted,calendar-minus-o,remove,delete,cancel,subtract,decrease,minus,reduce,calendar-o,date,schedule,event,time,planner,agenda,appointment,organizer,diary,calendar-plus-o,add,increase,plus,create,new,insert,append,calendar-times-o,cancel,delete,remove,close,reject,decline,deny,discard,camera,photo,picture,image,capture,shoot,record,lens,photography,camera-retro,vintage,classic,old-fashioned,antique,retro,nostalgic,film,analog,car,vehicle,automobile,transportation,drive,travel,road,engine,traffic,caret-square-o-down,dropdown,expand,open,reveal,display,access,toggle,caret-square-o-left,back,previous,reverse,navigate,return,go-back,caret-square-o-right,forward,next,advance,navigate,proceed,caret-square-o-up,collapse,hide,close,minimize,contract,cart-arrow-down,remove,delete,subtract,decrease,discard,cart-plus,add,increase,append,insert,create,cc,credit,debit,payment,finance,money,certificate,diploma,award,achievement,recognition,check,correct,right,approved,verified,check-circle,approved,verified,confirmed,accepted,valid,check-circle-o,pending,unconfirmed,unverified,incomplete,check-square,approved,verified,confirmed,accepted,completed,check-square-o,unchecked,unselected,incomplete,pending,child,young,kid,infant,youth,family,circle,shape,geometry,round,cycle,circle-o,outline,empty,hollow,ring,circle-o-notch,loading,processing,spinning,rotating,buffering,circle-thin,outline,border,frame,ring,clock-o,time,schedule,watch,hour,minute,clone,copy,duplicate,replicate,reproduce,close,exit,quit,cancel,end,stop
+cloud,sky,weather,storage,data,internet,network,computing,technology,environment,atmosphere,precipitation,cumulus,cirrus,nimbus,overcast,rainy,cloudy,forecast,meteorology,climate,moisture,vapor,condensation,precipitation,humidity,temperature,air,water,ecosystem,natural,atmospheric,celestial,meteorological,weather-related,weather-forecasting,weather-monitoring,weather-reporting,weather-data
+cloud-download,download,upload,storage,cloud,internet,network,data,file,transfer,retrieve,save,backup,sync,share,access,technology,computing,online,digital,remote,cloud-based,cloud-storage,cloud-computing,file-sharing,file-transfer,data-transfer,data-storage,data-backup,data-sync,data-access
+cloud-upload,upload,download,storage,cloud,internet,network,data,file,transfer,save,backup,sync,share,access,technology,computing,online,digital,remote,cloud-based,cloud-storage,cloud-computing,file-sharing,file-transfer,data-transfer,data-storage,data-backup,data-sync,data-access
+code,programming,software,development,coding,computer,technology,engineering,syntax,algorithm,logic,language,script,markup,text,instructions,commands,functions,variables,data,structure,problem-solving,debugging,troubleshooting,automation,application,website,app,software-development,computer-programming
+code-fork,branch,split,diverge,version,control,collaboration,software,development,programming,coding,repository,merge,commit,push,pull,collaborate,teamwork,project-management,workflow,open-source,git,github,bitbucket,gitlab
+coffee,drink,beverage,caffeine,morning,break,work,office,cafe,restaurant,barista,espresso,latte,mocha,cappuccino,mug,cup,hot,steam,aroma,energy,productivity,focus,concentration,socialization,relaxation
+cog,gear,machine,mechanism,tool,settings,configuration,control,adjustment,engineering,technology,industrial,mechanical,automation,process,system,function,operation,maintenance,repair,customization,optimization,efficiency,productivity
+cogs,gears,machine,mechanism,tools,settings,configuration,control,adjustment,engineering,technology,industrial,mechanical,automation,process,system,function,operation,maintenance,repair,customization,optimization,efficiency,productivity
+comment,text,message,feedback,discussion,conversation,communication,social,interaction,response,opinion,review,annotation,note,remark,input,dialogue,thread,forum,community,engagement,collaboration,feedback-loop
+comment-o,text,message,feedback,discussion,conversation,communication,social,interaction,response,opinion,review,annotation,note,remark,input,dialogue,thread,forum,community,engagement,collaboration,feedback-loop
+commenting,text,message,feedback,discussion,conversation,communication,social,interaction,response,opinion,review,annotation,note,remark,input,dialogue,thread,forum,community,engagement,collaboration,feedback-loop
+commenting-o,text,message,feedback,discussion,conversation,communication,social,interaction,response,opinion,review,annotation,note,remark,input,dialogue,thread,forum,community,engagement,collaboration,feedback-loop
+comments,text,messages,feedback,discussion,conversation,communication,social,interaction,responses,opinions,reviews,annotations,notes,remarks,input,dialogue,threads,forum,community,engagement,collaboration,feedback-loop
+comments-o,text,messages,feedback,discussion,conversation,communication,social,interaction,responses,opinions,reviews,annotations,notes,remarks,input,dialogue,threads,forum,community,engagement,collaboration,feedback-loop
+compass,navigation,direction,orientation,map,travel,exploration,adventure,guidance,location,positioning,wayfinding,bearings,north,south,east,west,coordinates,gps,surveying,cartography,geography,exploration,hiking,camping
+copyright,intellectual,property,ownership,rights,protection,law,legal,creative,content,media,publishing,art,music,literature,software,trademark,patent,license,attribution,infringement,plagiarism,fair-use,public-domain
+creative-commons,intellectual,property,ownership,rights,protection,law,legal,creative,content,media,publishing,art,music,literature,software,trademark,patent,license,attribution,infringement,plagiarism,fair-use,public-domain
+credit-card,payment,finance,banking,transaction,purchase,retail,ecommerce,online,offline,wallet,cash,debit,visa,mastercard,amex,discover,security,fraud,protection,identification
+credit-card-alt,payment,finance,banking,transaction,purchase,retail,ecommerce,online,offline,wallet,cash,debit,visa,mastercard,amex,discover,security,fraud,protection,identification
+crop,image,photo,editing,resize,scale,proportion,aspect-ratio,composition,framing,photography,design,layout,graphics,multimedia,visual,cropping,trimming,cutting,adjusting,formatting
+crosshairs,target,aim,focus,center,bullseye,precision,accuracy,sighting,scope,rifle,hunting,shooting,navigation,gps,mapping,surveying,alignment,positioning,centering
+cube,3d,geometry,shape,object,model,design,architecture,construction,engineering,technology,data,visualization,graphics,rendering,modeling,simulation,virtual,augmented,reality
+cubes,3d,geometry,shapes,objects,models,design,architecture,construction,engineering,technology,data,visualization,graphics,rendering,modeling,simulation,virtual,augmented,reality
+cutlery,food,dining,kitchen,restaurant,catering,cooking,utensils,tableware,flatware,silverware,knife,fork,spoon,plate,bowl,meal,service,hospitality,catering
+dashboard,control,panel,interface,display,analytics,metrics,data,monitoring,reporting,management,administration,navigation,overview,summary,statistics,visualization,tracking,performance,analysis
+database,data,storage,management,information,records,repository,sql,nosql,query,search,retrieve,organize,structure,schema,table,column,row,index,backup,security,scalability,performance,analytics
+dot-circle-o,point,circle,indicator,marker,spot,button,selection,option,choice,radio,toggle,cursor,focus,highlight,target,placeholder,icon,symbol,visual,representation
+download,file,data,content,media,document,resource,asset,retrieve,save,export,transfer,cloud,internet,technology,software,application,storage,sharing,distribution,access
+drivers-license,identification,document,card,permit,credential,personal,government,authority,legal,official,photo,name,address,information,verification,security,travel,transportation,vehicle,citizen
+drivers-license-o,identification,document,card,permit,credential,personal,government,authority,legal,official,photo,name,address,information,verification,security,travel,transportation,vehicle,citizen
+edit,modify,update,change,revise,customize,personalize,adjust,improve,refine,correct,fix,write,design,create,transform,manipulate,control,manage,develop,enhance
+ellipsis-h,dots,menu,navigation,options,more,overflow,hidden,content,layout,interface,design,horizontal,spacing,alignment,balance,minimalism,simplicity,functionality,interaction,user-experience
+ellipsis-v,dots,menu,navigation,options,more,overflow,hidden,content,layout,interface,design,vertical,spacing,alignment,balance,minimalism,simplicity,functionality,interaction,user-experience
+envelope,mail,message,communication,letter,email,correspondence,delivery,postal,package,document,information,business,office,contact,send,receive,open,read,reply,organize
+envelope-o,mail,message,communication,letter,email,correspondence,delivery,postal,package,document,information,business,office,contact,send,receive,open,read,reply,organize
+envelope-open,mail,message,communication,letter,email,correspondence,delivery,postal,package,document,information,business,office,contact,send,receive,open,read,reply,organize
+envelope-open-o,mail,message,communication,letter,email,correspondence,delivery,postal,package,document,information,business,office,contact,send,receive,open,read,reply,organize
+envelope-square,mail,message,communication,letter,email,correspondence,delivery,postal,package,document,information,business,office,contact,send,receive,open,read,reply,organize
+eraser,edit,correct,remove,clean,clear,undo,delete,modify,fix,improve,refine,design,art,drawing,writing,mistake,error,precision,detail,neatness
+exchange,trade,swap,barter,transfer,convert,replace,substitute,switch,transaction,commerce,business,finance,market,currency,payment,negotiation,interaction,reciprocal,mutual,cooperation
+exclamation,alert,warning,emphasis,importance,urgency,surprise,attention,notification,signal,problem,issue,emergency,question,doubt,uncertainty,reaction,expression,punctuation,symbol,icon
+exclamation-circle,alert,warning,emphasis,importance,urgency,surprise,attention,notification,signal,problem,issue,emergency,question,doubt,uncertainty,reaction,expression,punctuation,symbol,icon
+exclamation-triangle,alert,warning,emphasis,importance,urgency,surprise,attention,notification,signal,problem,issue,emergency,danger,caution,risk,safety,precaution,concern,vigilance,prevention
+external-link,outbound,redirect,navigate,open,new,window,tab,website,url,hyperlink,reference,source,destination,external,third-party,connection,access,share,expand,explore
+external-link-square,outbound,redirect,navigate,open,new,window,tab,website,url,hyperlink,reference,source,destination,external,third-party,connection,access,share,expand,explore
+eye,see,view,observe,watch,monitor,inspect,examine,focus,attention,perception,vision,insight,awareness,surveillance,security,privacy,curiosity,interest,investigation,discovery
+eye-slash,hide,conceal,obscure,block,cover,protect,privacy,security,confidentiality,restricted,hidden,invisible,unseen,unobserved,ignore,neglect,disregard,overlook,blind,unaware
+eyedropper,color,sample,pick,select,match,identify,analyze,measure,capture,pipette,design,art,photography,editing,interface,tool,precision,accuracy,detail,customization
+fax,document,transmission,communication,office,business,paperwork,copy,send,receive,archive,technology,machine,scanner,printer,phone,data,information,delivery,transfer,confirmation
+feed,rss,news,content,updates,information,subscription,syndication,distribution,sharing,social,media,blog,website,internet,technology,data,notification,alert,follow,consume
+female,woman,girl,gender,sex,identity,representation,diversity,equality,femininity,beauty,fashion,health,biology,psychology,society,culture,empowerment,leadership,rights,activism
+fighter-jet,aircraft,military,aviation,war,combat,speed,power,technology,engineering,transportation,travel,defense,attack,maneuverability,precision,control,skill,courage,strategy,patriotism
+file-archive-o,compress,zip,rar,7z,tar,gzip,document,data,storage,transfer,download,upload,backup,organize,manage,compress,extract,unpack,archive,compression
+file-audio-o,sound,music,recording,audio,media,file,format,playback,speaker,headphones,podcast,radio,entertainment,multimedia,digital,technology,communication,expression,creativity,hobby
+file-code-o,code,programming,software,development,script,text,markup,syntax,engineering,technology,computer,digital,application,website,app,interface,logic,algorithm,automation,efficiency
+file-excel-o,spreadsheet,data,table,calculation,analysis,finance,business,office,productivity,organization,document,format,export,import,integration,reporting,visualization,decision-making,efficiency,automation
+file-image-o,image,photo,picture,graphic,visual,document,file,media,multimedia,photography,art,design,digital,jpeg,png,gif,upload,download,share,edit,manage,organize
+file-movie-o,video,film,movie,media,multimedia,animation,clip,footage,recording,playback,stream,share,edit,manage,organize
+file-pdf-o,pdf,document,file,report,form,ebook,manual,contract,legal,academic,research,share,download,view,print
+file-photo-o,photo,image,picture,graphic,visual,file,media,photography,camera,digital,upload,download,share,edit,manage,organize
+file-picture-o,picture,image,photo,graphic,visual,file,media,photography,art,design,digital,upload,download,share,edit,manage,organize
+file-powerpoint-o,powerpoint,presentation,slide,deck,file,document,media,business,education,training,share,download,view,edit
+file-sound-o,audio,sound,music,file,media,multimedia,recording,playback,stream,share,edit,manage,organize
+file-video-o,video,film,movie,media,multimedia,clip,footage,recording,playback,stream,share,edit,manage,organize
+file-word-o,word,document,file,text,writing,report,essay,letter,manuscript,share,download,view,edit
+file-zip-o,zip,archive,compress,file,folder,storage,download,upload,share,manage,organize
+film,movie,video,cinema,production,reel,footage,recording,playback,media,entertainment
+filter,adjust,refine,modify,process,edit,manage,organize,sort,search,select,control
+fire,flame,burn,heat,danger,emergency,safety,extinguish,alarm,light,energy
+fire-extinguisher,safety,emergency,danger,flame,smoke,protect,prevent,response,equipment
+flag,symbol,nation,country,patriotism,identity,signal,marker,guide,lead,wave
+flag-checkered,race,competition,finish,victory,sport,event,celebration
+flag-o,symbol,nation,country,patriotism,identity,signal,marker,guide,lead,wave
+flash,light,illumination,photography,camera,speed,quick,sudden,bright,signal
+flask,chemistry,lab,experiment,science,research,test,container,liquid,measure
+folder,file,document,storage,organization,manage,archive,directory,computer,desktop
+folder-o,file,document,storage,organization,manage,archive,directory,computer,desktop
+folder-open,file,document,storage,organization,manage,archive,directory,computer,desktop,access
+folder-open-o,file,document,storage,organization,manage,archive,directory,computer,desktop,access
+frown-o,emotion,expression,face,mood,unhappy,sad,displeasure,disapproval,concern
+futbol-o,soccer,football,sport,game,ball,field,team,competition,recreation
+gamepad,video game,controller,joystick,gaming,entertainment,play,digital,technology
+gavel,law,justice,court,judge,decision,authority,power,punishment,auction
+gear,machine,mechanism,part,engineering,technology,industrial,cog,system,process
+gears,machine,mechanism,part,engineering,technology,industrial,cog,system,process
+gift,present,box,wrap,surprise,celebration,holiday,special,generous,receive
+glass,glass,transparent,container,drinking,beverage,window,crystal,cup,bottle
+globe,world,earth,map,sphere,planet,geography,international,travel,education
+graduation-cap,graduation,degree,education,achievement,ceremony,academic,student,diploma,success
+group,team,community,organization,collaboration,social,gathering,people,network,unity
+hand-grab-o,hand,grab,hold,grasp,reach,take,seize,control,assistance
+hand-lizard-o,hand,lizard,gesture,spock,star trek,vulcan,science fiction,pop culture,humor
+hand-paper-o,hand,paper,gesture,rock paper scissors,game,competition,decision,choice,strategy
+hand-peace-o,hand,peace,gesture,symbol,nonviolence,harmony,hippie,protest,love
+hand-pointer-o,hand,pointer,cursor,mouse,click,select,navigate,interface,technology
+hand-rock-o,hand,rock,gesture,rock paper scissors,game,competition,strength,power,stability
+hand-scissors-o,hand,scissors,gesture,rock paper scissors,game,competition,cut,divide,separate
+hand-spock-o,hand,spock,gesture,star trek,science fiction,vulcan,logic,reason,pop culture
+hand-stop-o,hand,stop,gesture,halt,prohibit,warning,traffic,safety,control
+handshake-o,handshake,agreement,deal,partnership,greeting,business,collaboration,trust,connection
+hard-of-hearing,hearing,impairment,disability,accessibility,assistive technology,communication,support
+hashtag,pound,symbol,social media,tagging,categorization,organization,metadata,internet,digital
+hdd-o,hard drive,storage,computer,technology,data,backup,memory,files,digital
+headphones,audio,music,sound,listening,entertainment,communication,concentration,privacy,technology
+heart,love,emotion,passion,health,cardiovascular,symbol,romance,care,compassion
+heart-o,love,emotion,passion,symbol,romance,care,compassion,empathy,openness
+heartbeat,pulse,life,rhythm,health,monitor,vital signs,emergency,medical,biology
+history,past,timeline,record,story,knowledge,culture,heritage,tradition,memory
+home,house,family,residence,shelter,comfort,safety,community,real estate,domestic
+hotel,accommodation,travel,hospitality,lodging,vacation,business,amenities,service,luxury
+hourglass,time,countdown,deadline,waiting,patience,urgency,measurement,sand,timer
+hourglass-1,time,countdown,deadline,waiting,patience,urgency,measurement,sand,timer
+hourglass-2,time,countdown,deadline,waiting,patience,urgency,measurement,sand,timer
+hourglass-3,time,countdown,deadline,waiting,patience,urgency,measurement,sand,timer
+hourglass-end,time,countdown,deadline,waiting,patience,urgency,measurement,sand,timer
+hourglass-half,time,countdown,deadline,waiting,patience,urgency,measurement,sand,timer
+hourglass-o,time,countdown,sand,passage,duration,wait,delay,pause,timer,clock,schedule,deadline,timepiece,hourglass,patience,process,measure,interval,tempo,rhythm
+hourglass-start,time,countdown,sand,passage,duration,wait,delay,pause,timer,clock,schedule,deadline,timepiece,hourglass,patience,process,measure,interval,tempo,rhythm
+i-cursor,pointer,mouse,arrow,select,click,cursor,control,interface,navigation,input,device,computer,digital,interactive,manipulation,tracking,gesture,touch,precision,control
+id-badge,identification,credential,card,document,verification,security,access,personal,information,data,profile,label,tag,name,photo,authority,proof,recognition,status,role
+id-card,identification,credential,card,document,verification,security,access,personal,information,data,profile,label,tag,name,photo,authority,proof,recognition,status,role
+id-card-o,identification,credential,card,document,verification,security,access,personal,information,data,profile,label,tag,name,photo,authority,proof,recognition,status,role
+image,picture,photo,visual,graphic,illustration,art,media,file,document,capture,display,share,edit,view,memory,record,representation,communication,expression,creativity
+inbox,email,message,communication,organization,storage,sorting,processing,reception,delivery,management,workflow,productivity,task,priority,notification,archive,sorting,filtering,categorization
+industry,business,manufacturing,production,commerce,economy,sector,market,trade,enterprise,organization,technology,innovation,infrastructure,resources,labor,supply,demand,growth,development
+info,information,data,knowledge,facts,details,explanation,description,instruction,guidance,reference,resource,communication,disclosure,transparency,education,awareness,intelligence,insight,clarification
+info-circle,information,data,knowledge,facts,details,explanation,description,instruction,guidance,reference,resource,communication,disclosure,transparency,education,awareness,intelligence,insight,clarification
+institution,organization,establishment,agency,authority,system,structure,administration,governance,education,research,healthcare,finance,culture,society,community,tradition,policy,regulation,infrastructure
+key,access,security,authentication,identification,lock,unlock,password,code,entry,control,tool,instrument,symbol,representation,importance,significance,function,utility,necessity
+keyboard-o,input,typing,writing,text,communication,computer,device,interface,control,navigation,productivity,efficiency,ergonomics,shortcut,command,data,information,interaction,accessibility
+language,communication,expression,translation,interpretation,culture,dialect,terminology,vocabulary,grammar,syntax,speech,writing,multilingual,global,diversity,understanding,interaction,exchange,fluency
+laptop,computer,technology,mobile,portable,device,work,productivity,office,internet,software,hardware,screen,keyboard,mouse,battery,connectivity,mobility,versatility,convenience
+leaf,nature,plant,environment,ecology,growth,renewal,life,green,organic,fresh,natural,sustainability,symbol,peace,tranquility,freshness,vitality,purity,simplicity
+legal,law,justice,rights,regulations,compliance,authority,court,legislation,policy,contract,liability,ethics,dispute,resolution,documentation,procedure,enforcement,interpretation,representation
+lemon-o,fruit,citrus,yellow,tart,sour,refreshing,zest,garnish,cooking,baking,cocktail,health,vitamin,cleansing,brightening,acidic,tangy,flavor,aroma,decoration
+level-down,decrease,reduction,lower,descend,drop,decline,diminish,regression,downward,adjustment,control,management,navigation,interface,user experience
+level-up,increase,elevation,raise,ascend,rise,growth,advancement,progression,upward,adjustment,control,management,navigation,interface,user experience
+life-bouy,safety,rescue,emergency,flotation,survival,water,maritime,coast guard,lifesaving,accident,disaster,support,aid,buoyancy,protection,preparedness,response,equipment,training
+life-buoy,safety,rescue,emergency,flotation,survival,water,maritime,coast guard,lifesaving,accident,disaster,support,aid,buoyancy,protection,preparedness,response,equipment,training
+life-ring,safety,rescue,emergency,flotation,survival,water,maritime,coast guard,lifesaving,accident,disaster,support,aid,buoyancy,protection,preparedness,response,equipment,training
+life-saver,safety,rescue,emergency,flotation,survival,water,maritime,coast guard,lifesaving,accident,disaster,support,aid,buoyancy,protection,preparedness,response,equipment,training
+lightbulb-o,idea,innovation,creativity,inspiration,solution,enlightenment,discovery,invention,insight,intelligence,knowledge,understanding,learning,progress,problem-solving,vision,eureka,epiphany,illumination
+line-chart,data,analysis,statistics,trends,performance,growth,progress,finance,business,economics,visualization,reporting,monitoring,tracking,evaluation,decision-making,strategy,planning,forecasting
+location-arrow,navigation,direction,map,geography,travel,destination,position,coordinates,GPS,tracking,routing,wayfinding,orientation,exploration,discovery,mapping,guidance,location,address,signage
+lock,security,protection,access,authentication,privacy,confidentiality,encryption,safety,control,restriction,prevention,defense,key,password,verification,authorization,integrity,secrecy,vulnerability
+low-vision,accessibility,impairment,disability,vision,sight,eye,assistive,technology,accommodation,adaptation,magnification,contrast,lighting,mobility,independence,inclusion,support,aid,rehabilitation,empowerment
+magic,enchantment,sorcery,illusion,supernatural,mystical,conjure,spellcasting,wizardry,occult,fantasy,trick,prestidigitation,charm,hex,potion,incantation,arcane,esoteric,metaphysical,ritual,divination,alchemy,talisman,amulet,astrology,tarot,shamanism,voodoo,witchcraft,necromancy
+magnet,attraction,repulsion,polarity,magnetism,ferromagnetism,electromagnet,compass,lodestone,field,pull,push,force,metal,iron,steel,magnetic,pole,flux,charge,energy,physics,science,industrial,technology,engineering,MRI,speaker,toy
+mail-forward,send,share,distribute,disseminate,propagate,broadcast,circulate,disperse,transmit,communicate,publish,deliver,transfer,relay,forward,redirect,repost,spread,disperse,disseminate,propagate,broadcast,circulate,distribute
+mail-reply,respond,answer,react,reciprocate,return,acknowledge,correspond,converse,dialogue,feedback,message,communicate,reply,revert,rejoin,retort,counter,rebut,refute,retort
+mail-reply-all,respond,answer,react,reciprocate,return,acknowledge,correspond,converse,dialogue,feedback,message,communicate,reply,revert,rejoin,retort,counter,rebut,refute,retort,inclusive,comprehensive,thorough,complete,exhaustive
+male,man,gentleman,boy,masculine,manly,virile,macho,testosterone,gender,sex,XY,patriarch,husband,father,son,brother,uncle,grandpa,masculine,masculine-presenting,masculine-identifying
+map,geography,cartography,navigation,exploration,travel,route,direction,location,position,terrain,landscape,atlas,GPS,compass,coordinates,grid,scale,legend,topography,mapping,surveying
+map-marker,location,place,point,spot,site,address,landmark,destination,position,coordinate,GPS,navigation,map,pin,tag,mark,indicator,pointer,signifier,reference
+map-o,geography,cartography,navigation,exploration,travel,route,direction,location,position,terrain,landscape,atlas,GPS,compass,coordinates,grid,scale,legend,topography,mapping,surveying
+map-pin,location,place,point,spot,site,address,landmark,destination,position,coordinate,GPS,navigation,map,marker,tag,mark,indicator,pointer,signifier,reference
+map-signs,navigation,wayfinding,directions,signage,landmarks,orientation,guidance,information,location,route,travel,exploration,mapping,cartography,GPS,compass,coordinates
+meh-o,indifference,neutrality,ambivalence,apathy,boredom,disinterest,nonchalance,detachment,ennui,listlessness,unconcern,dispassion,impassivity,stoicism,placidity,equanimity,composure,calmness,serenity,tranquility
+microchip,integrated circuit,semiconductor,electronics,technology,computer,processor,CPU,memory,silicon,transistor,digital,miniaturization,engineering,innovation,automation,intelligence,smart,embedded,circuit,board
+microphone,audio,sound,voice,speech,recording,broadcast,performance,music,singing,speaking,announcement,interview,podcast,lecture,presentation,communication,amplification,pickup,studio,stage
+microphone-slash,mute,silence,quiet,hush,muffled,suppressed,blocked,obstructed,disabled,deactivated,disconnected,unplugged,off,silenced,censored,restricted,gagged,voiceless,inaudible,noiseless
+minus,subtract,remove,decrease,reduce,diminish,lessen,lower,drop,decline,deduct,detract,take-away,negative,inverse,opposite,reverse,undo,negate,minimize,downsize
+minus-circle,subtract,remove,decrease,reduce,diminish,lessen,lower,drop,decline,deduct,detract,take-away,negative,inverse,opposite,reverse,undo,negate,minimize,downsize,cancel,delete,erase
+minus-square,subtract,remove,decrease,reduce,diminish,lessen,lower,drop,decline,deduct,detract,take-away,negative,inverse,opposite,reverse,undo,negate,minimize,downsize,cancel,delete,erase,box
+minus-square-o,subtract,remove,decrease,reduce,diminish,lessen,lower,drop,decline,deduct,detract,take-away,negative,inverse,opposite,reverse,undo,negate,minimize,downsize,cancel,delete,erase,box,outline
+mobile,cell phone,smartphone, portable, handheld, wireless, cellular, pocket, touch screen, app, internet, communication, mobility, on-the-go, connected, digital, tech, gadget, device
+mobile-phone,cell phone,smartphone,portable,handheld,wireless,cellular,pocket,touch screen,app,internet,communication,mobility,on-the-go,connected,digital,tech,gadget,device
+money,currency,cash,finance,wealth,income,payment,transaction,economics,business,banking,investment,savings,budget,profit,loss,exchange,value,worth,price,cost
+moon-o,lunar,night,darkness, celestial, astronomy, crescent, full moon, new moon, phases, tides, werewolf, romance, mysticism, nocturnal, solstice, eclipse
+mortar-board,graduation,commencement,diploma,degree,education,academia,scholar,student,professor,university,college,cap,tassel,ceremony,achievement,knowledge,intellect,learning
+motorcycle,bike,scooter,moped,vehicle,transportation,engine,two-wheel,speed,thrill,adventure,freedom,rebel,biker,leather,helmet,road,race,stunt
+mouse-pointer,cursor,pointer,click,select,navigate,interface,computer,desktop,GUI,software,hardware,input,control,point,hover,scroll,drag,drop
+music,sound,melody,rhythm,harmony,instrument,song,performance,concert,band,orchestra, composer, musician, playlist, audio, entertainment, culture, art, emotion
+navicon,menu,navigation,hamburger,bars,list,options,settings,toggle,expand,collapse,mobile,responsive,UI,UX,design,interface,website,app
+newspaper-o,news,information,journalism,media,publication,print,article,headline,story,report,editor,publisher,paper,press,blog,digital,current events, communication
+object-group,collection,assortment,set,group,cluster,array,arrangement,composition,combination,assembly,aggregation,compilation,gathering,ensemble,unity,cohesion,integration,organization
+object-ungroup,ungroup,separate,divide,disassemble,decompose,detach,disconnect,dismantle,disintegrate,dissect,dissemble,disunite,disjoin,disassociate,disunion,disintegration,fragmentation,partition,split,break apart
+paint-brush,painting,art,artist,creative,design,decorate,color,draw,illustrate,brush,palette,canvas,easel,pigment,medium,texture,stroke,blend,create
+paper-plane,airplane,flight,travel,send,deliver,message,communication,dispatch,launch,soar,glide,fold,origami,airmail,envelope
+paper-plane-o,airplane,flight,travel,send,deliver,message,communication,dispatch,launch,soar,glide,fold,origami,airmail,envelope
+paw,animal,pet,cat,dog,bear,claw,foot,track,print,paw print,nature,wildlife,outdoor,terrain
+pencil,write,draw,sketch,design,create,plan,diagram,blueprint,note,jot,scribble,doodle,erase,sharpen,lead,wood,eraser
+pencil-square,write,draw,sketch,design,create,plan,diagram,blueprint,note,jot,scribble,doodle,erase,sharpen,lead,wood,eraser,square,box,container
+pencil-square-o,write,draw,sketch,design,create,plan,diagram,blueprint,note,jot,scribble,doodle,erase,sharpen,lead,wood,eraser,square,box,container
+percent,ratio,proportion,fraction,decimal,statistic,data,number,quantity,rate,scale,measurement,percentage,symbol
+phone,call,communicate,talk,dial,ring,mobile,smartphone,landline,contact,connect,reach,message,voice,audio
+phone-square,call,communicate,talk,dial,ring,mobile,smartphone,landline,contact,connect,reach,message,voice,audio,square,box,container
+photo,picture,image,capture,shoot,camera,digital,film,snapshot,portrait,landscape,selfie,frame,gallery,album
+picture-o,picture,image,capture,shoot,camera,digital,film,snapshot,portrait,landscape,selfie,frame,gallery,album
+pie-chart,data,statistics,analysis,visualization,graph,chart,circle,segment,percentage,proportion,ratio,information,display
+plane,aircraft,flight,travel,fly,soar,wing,engine,pilot,airport,takeoff,landing,sky,transportation
+plug,power,electricity,outlet,socket,connect,charge,adapter,cord,cable,input,output,circuit,energy,device
+plus,add,increase,positive,math,symbol,join,combine,unite,expand,grow,enlarge,augment,amplify,enhance
+plus-circle,add,increase,positive,math,symbol,join,combine,unite,expand,grow,enlarge,augment,amplify,enhance,circle,round,container
+plus-square,add,increase,positive,math,symbol,join,combine,unite,expand,grow,enlarge,augment,amplify,enhance,square,box,container
+plus-square-o,add,increase,positive,math,symbol,join,combine,unite,expand,grow,enlarge,augment,amplify,enhance,square,box,container
+podcast,audio,broadcast,recording,interview,music,voice,digital,subscribe,stream,download,listen,episode,series,platform
+power-off,shut down,turn off,stop,end,close,exit,logout,deactivate,disable,unplug,disconnect,energy,electricity,device
+print,document,paper,copy,publish,press,ink,text,image,scan,photocopy,printer,output,hard copy,digital
+puzzle-piece,puzzle,game,solve,connect,fit,assemble,piece,part,section,fragment,interlock,pattern,design,challenge
+qrcode,barcode,scan,mobile,payment,information,data,link,website,app,digital,technology,encode,decode,square
+question,ask,query,doubt,uncertainty,confusion,problem,issue,dilemma,puzzle,investigate,research,explore,clarify
+question-circle,ask,query,doubt,uncertainty,confusion,problem,issue,dilemma,puzzle,investigate,research,explore,clarify,circle,container
+question-circle-o,ask,query,doubt,uncertainty,confusion,problem,issue,dilemma,puzzle,investigate,research,explore,clarify,circle,container
+quote-left,text,message,saying,phrase,excerpt,passage,citation,dialogue,speech,testimony,remark,expression,sentiment
+quote-right,text,message,saying,phrase,excerpt,passage,citation,dialogue,speech,testimony,remark,expression,sentiment
+random,unpredictable,chance,serendipity,arbitrary,spontaneous,variable,uncertain,indeterminate,unplanned,unexpected,haphazard,erratic,irregular,unstructured,randomize,randomization,dice,shuffle,surprise,chaos,disorder,unpredictability,randomness,aleatory,stochastic,fortuitous,contingent,accidental,uncontrolled
+recycle,reuse,repurpose,renew,eco-friendly,sustainability,conservation,green,environment,reduce,reprocess,upcycle,downcycle,circular,waste-management,recycling-bin,recycling-center,recycling-program,recycled-content,recyclable,compost,landfill-diversion,resource-recovery,waste-reduction,environmental-stewardship,sustainability-initiative
+refresh,renew,revive,rejuvenate,recharge,reenergize,reinvigorate,revitalize,restore,update,reload,restart,reset,reboot,regenerate,replenish,refurbish,refill,relaunch,resuscitate,reinvent,reinstitute,reinstate,rehabilitate,renovate,replenishment,resuscitation,reactivation,reanimation,reestablishment
+registered,official,authorized,certified,licensed,accredited,approved,validated,recognized,legitimate,verified,sanctioned,regulated,formal,legal,documented,registered-trademark,registered-user,registered-account,registered-member,registered-professional,registered-business,registered-domain,registered-voter,registered-entity,registered-organization
+remove,delete,erase,eliminate,extract,discard,dispose,clear,purge,expunge,exclude,omit,withdraw,detach,disconnect,uninstall,unplug,unlink,unattach,dislodge,disengage,disentangle,disassociate,dissociate,separation,extraction,ejection,eviction,dismissal,abolition
+reorder,reorganize,rearrange,resequence,reshuffle,reposition,realign,restructure,reclassify,regroup,reassign,redistribute,restack,reorder-items,reorder-list,reorder-tasks,reorder-priorities,reorder-workflow,reorder-sequence,reorder-process,reorder-inventory,reorder-supplies,reorder-queue,reorder-schedule,reorder-hierarchy,reorder-structure,reorder-system
+reply,respond,answer,react,retort,rejoin,retaliate,reciprocate,acknowledge,correspond,communicate,feedback,reply-message,reply-email,reply-comment,reply-text,reply-chat,reply-thread,reply-conversation,reply-notification,reply-prompt,reply-button,reply-form,reply-box,reply-option,reply-function
+reply-all,respond,answer,react,retort,rejoin,retaliate,reciprocate,acknowledge,correspond,communicate,feedback,reply-all-message,reply-all-email,reply-all-comment,reply-all-text,reply-all-chat,reply-all-thread,reply-all-conversation,reply-all-notification,reply-all-prompt,reply-all-button,reply-all-form,reply-all-box,reply-all-option,reply-all-function
+retweet,share,forward,redistribute,republish,recirculate,disseminate,propagate,amplify,broadcast,echo,repeat,relay,resend,repost,reblog,retransmit,recirculate,redistribute-content,share-content,spread-information,viral-marketing,social-media-engagement,content-curation,information-diffusion
+road,highway,street,path,route,transportation,travel,journey,infrastructure,pavement,asphalt,lane,traffic,commute,navigation,destination,signage,waypoint,roadmap,roadside,roadblock,roadwork,roadtrip,roadway,thoroughfare,artery,passage,corridor,avenue,boulevard
+rocket,spacecraft,missile,launch,propulsion,space-exploration,aeronautics,rocketry,astronautics,spaceflight,liftoff,ignition,thrust,payload,trajectory,orbit,re-entry,space-program,space-technology,space-travel,space-exploration,aerospace-engineering,rocket-science,rocket-engine,rocket-fuel,rocket-launch
+rss,syndication,feed,subscription,content-distribution,web-feed,news-feed,blog-feed,podcast-feed,data-feed,information-feed,xml-feed,rss-reader,rss-aggregator,rss-subscription,rss-icon,rss-button,rss-link,rss-feed,rss-content,rss-updates,rss-notifications,rss-distribution,rss-technology,rss-protocol
+rss-square,syndication,feed,subscription,content-distribution,web-feed,news-feed,blog-feed,podcast-feed,data-feed,information-feed,xml-feed,rss-reader,rss-aggregator,rss-subscription,rss-icon,rss-button,rss-link,rss-feed,rss-content,rss-updates,rss-notifications,rss-distribution,rss-technology,rss-protocol
+s15,bathroom,restroom,toilet,lavatory,washroom,latrine,sanitation,plumbing,facilities,hygiene,relief,urinal,stall,sink,faucet,soap,towel,privacy,cleanliness,convenience,accessibility,gender-neutral,handicap-accessible
+search,find,discover,locate,explore,investigate,research,query,scan,browse,hunt,seek,retrieve,uncover,detect,identify,recognize,examine,inspect,survey,search-engine,search-bar,search-box,search-field,search-function,search-tool,search-result
+search-minus,zoom-out,reduce,shrink,contract,minimize,scale-down,magnify-less,enlarge-less,decrease-size,smaller-view,narrow-focus,limit-scope,restrict-search,condense-content,compact-display,simplify-interface,streamline-layout,declutter-screen,downsize-window,diminish-view,lessen-detail
+search-plus,zoom-in,enlarge,expand,grow,scale-up,magnify,increase-size,bigger-view,widen-focus,broaden-scope,extend-search,amplify-content,expand-display,elaborate-interface,complexify-layout,enrich-screen,upsize-window,augment-view,heighten-detail
+send,transmit,deliver,dispatch,communicate,transfer,share,submit,post,mail,email,upload,publish,broadcast,distribute,convey,forward,release,dispatch,disseminate,circulate,propagate,transport,ship
+send-o,transmit,deliver,dispatch,communicate,transfer,share,submit,post,mail,email,upload,publish,broadcast,distribute,convey,forward,release,dispatch,disseminate,circulate,propagate,transport,ship
+server,computer,host,network,database,storage,cloud,processor,hardware,software,application,service,internet,intranet,data-center,web-server,email-server,file-server,database-server,application-server,virtual-server,dedicated-server,shared-server,server-room,server-farm,server-infrastructure
+share,distribute,disseminate,circulate,broadcast,publish,communicate,transfer,transmit,collaborate,contribute,exchange,divide,allocate,disperse,dispense,disperse,propagate,spread,diffuse,release,convey,deliver
+share-alt,distribute,disseminate,circulate,broadcast,publish,communicate,transfer,transmit,collaborate,contribute,exchange,divide,allocate,disperse,dispense,disperse,propagate,spread,diffuse,release,convey,deliver
+share-alt-square,distribute,disseminate,circulate,broadcast,publish,communicate,transfer,transmit,collaborate,contribute,exchange,divide,allocate,disperse,dispense,disperse,propagate,spread,diffuse,release,convey,deliver
+share-square,distribute,disseminate,circulate,broadcast,publish,communicate,transfer,transmit,collaborate,contribute,exchange,divide,allocate,disperse,dispense,disperse,propagate,spread,diffuse,release,convey,deliver
+share-square-o,distribute,disseminate,circulate,broadcast,publish,communicate,transfer,transmit,collaborate,contribute,exchange,divide,allocate,disperse,dispense,disperse,propagate,spread,diffuse,release,convey,deliver
+shield,protection,security,defense,safeguard,shelter,barrier,armor,guard,cover,screen,block,deflect,ward,insulate,fortify,reinforce,secure,preserve,defend,protect
+ship,vessel,boat,watercraft,seafaring,maritime,nautical,marine,cargo,freight,transport,delivery,logistics,shipment,cruise,sail,dock,harbor,port,pier,wharf
+shopping-bag,retail,commerce,purchase,transaction,merchandise,goods,products,shopping,consumer,customer,cart,checkout,inventory,supply,display,packaging,brand,promotion,sale,discount
+shopping-basket,retail,commerce,purchase,transaction,merchandise,goods,products,shopping,consumer,customer,cart,checkout,inventory,supply,display,packaging,brand,promotion,sale,discount
+shopping-cart,retail,commerce,purchase,transaction,merchandise,goods,products,shopping,consumer,customer,cart,checkout,inventory,supply,display,packaging,brand,promotion,sale,discount
+shower,bathing,cleansing,cleaning,hygiene,plumbing,refreshing,relaxing,sanitation,shower-head,soap,water
+sign-in,access,authentication,authorization,enter,login,password,security,verification
+sign-language,communication,deaf,disability,expression,gestures,interpretation,nonverbal,sign,translation
+sign-out,access,authentication,authorization,exit,logout,security,verification
+signal,antenna,broadcast,communication,connection,network,radio,reception,transmission,wireless
+signing,agreement,authorization,contract,document,endorsement,legal,signature,verification,written
+sitemap,directory,hierarchy,index,information,navigation,organization,structure,tree,website
+sliders,adjustment,configuration,control,customization,interface,settings,tuning,user-interface
+smile-o,cheerful,delight,emotion,expression,friendly,happiness,joy,positivity,welcoming
+snowflake-o,cold,crystal,ice,nature,season,snow,winter
+soccer-ball-o,ball,field,football,game,goal,kick,pitch,sport,team
+sort,arrange,categorize,filter,order,organize,ranking,sequence,sorting,structure
+sort-alpha-asc,alphabetical,ascending,order,sequence,sorting,text
+sort-alpha-desc,alphabetical,descending,order,sequence,sorting,text
+sort-amount-asc,ascending,monetary,order,quantity,sequence,sorting,value
+sort-amount-desc,descending,monetary,order,quantity,sequence,sorting,value
+sort-asc,ascending,order,sequence,sorting
+sort-desc,descending,order,sequence,sorting
+sort-down,descending,order,sequence,sorting
+sort-numeric-asc,ascending,numeric,order,quantity,sequence,sorting
+sort-numeric-desc,descending,numeric,order,quantity,sequence,sorting
+sort-up,ascending,order,sequence,sorting
+space-shuttle,aerospace,exploration,flight,launch,NASA,rocket,space,technology,transportation
+spinner,activity,animation,busy,loading,processing,progress,rotation,spinning,wait
+spoon,cooking,dining,eating,flatware,kitchen,meal,serving,tableware,utensil
+square,box,geometry,grid,rectangle,shape
+square-o,box,geometry,grid,rectangle,shape
+star,achievement,award,favorite,quality,rating,review
+star-half,achievement,award,partial,quality,rating,review
+star-half-empty,achievement,award,partial,quality,rating,review
+star-half-full,rating,half,partial,evaluation,assessment,grading,review,score,measurement,performance,quality,achievement,recognition,appraisal,judgment,estimation,valuation,analysis,feedback,progress
+star-half-o,rating,half,partial,evaluation,assessment,grading,review,score,measurement,performance,quality,achievement,recognition,appraisal,judgment,estimation,valuation,analysis,feedback,progress
+star-o,rating,empty,unrated,evaluation,assessment,grading,review,score,measurement,performance,quality,achievement,recognition,appraisal,judgment,estimation,valuation,analysis,feedback,progress
+sticky-note,note,memo,reminder,message,post-it,paper,document,record,information,task,to-do,list,organization,planning,tracking,reference,annotation,jotting,scribble,stationery
+sticky-note-o,note,memo,reminder,message,post-it,paper,document,record,information,task,to-do,list,organization,planning,tracking,reference,annotation,jotting,scribble,stationery
+street-view,location,map,navigation,exploration,travel,tourism,sightseeing,orientation,perspective,landscape,environment,surroundings,observation,awareness,discovery,experience,perspective,viewpoint,scene,panorama
+suitcase,travel,luggage,bag,packing,vacation,trip,journey,transportation,mobility,storage,organization,belongings,possessions,adventure,exploration,business,commute,portability,convenience,gear
+sun-o,light,brightness,warmth,heat,weather,climate,sky,day,environment,nature,energy,solar,illumination,radiance,glow,sunshine,daylight,luminosity,temperature,radiation
+support,assistance,help,aid,guidance,backing,advocacy,encouragement,sustenance,maintenance,upkeep,reinforcement,protection,care,service,cooperation,facilitation,enablement,empowerment,resource,relief
+tablet,device,computer,technology,screen,display,touchscreen,mobile,digital,portable,information,communication,entertainment,productivity,education,reading,browsing,gaming,multimedia,connectivity,interface
+tachometer,speed,velocity,rpm,gauge,measurement,monitoring,performance,engine,vehicle,machinery,instrumentation,dashboard,control,feedback,data,analysis,optimization,efficiency,diagnostics,safety
+tag,label,identifier,marker,classification,categorization,organization,tracking,inventory,metadata,description,attribute,property,characteristic,association,reference,documentation,information,sorting,filtering,retrieval
+tags,labels,identifiers,markers,classification,categorization,organization,tracking,inventory,metadata,description,attributes,properties,characteristics,associations,references,documentation,information,sorting,filtering,retrieval
+tasks,work,activities,assignments,duties,responsibilities,goals,objectives,projects,to-do,list,planning,organization,management,productivity,efficiency,progress,completion,tracking,monitoring,workflow
+taxi,transportation,vehicle,driver,passenger,ride,service,travel,commute,urban,mobility,convenience,accessibility,business,tourism,economy,traffic,navigation,dispatch,meter,fare
+television,screen,display,entertainment,media,broadcast,programming,news,movies,shows,channels,streaming,video,audio,technology,information,communication,leisure,education,family,living room
+terminal,interface,computer,technology,display,input,output,data,information,communication,transportation,airport,station,port,logistics,operations,control,monitoring,security,processing,access
+thermometer,temperature,measurement,monitoring,weather,climate,health,fever,diagnosis,environment,science,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thermometer-0,temperature,low,cold,freezing,measurement,monitoring,weather,climate,health,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization
+thermometer-1,temperature,low,cold,measurement,monitoring,weather,climate,health,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thermometer-2,temperature,medium,measurement,monitoring,weather,climate,health,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency,balance
+thermometer-3,temperature,high,hot,measurement,monitoring,weather,climate,health,fever,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thermometer-4,temperature,high,hot,measurement,monitoring,weather,climate,health,fever,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thermometer-empty,temperature,low,cold,freezing,measurement,monitoring,weather,climate,health,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization
+thermometer-full,temperature,high,hot,measurement,monitoring,weather,climate,health,fever,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thermometer-half,temperature,medium,measurement,monitoring,weather,climate,health,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency,balance
+thermometer-quarter,temperature,low,cold,measurement,monitoring,weather,climate,health,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thermometer-three-quarters,temperature,high,hot,measurement,monitoring,weather,climate,health,fever,diagnosis,environment,data,analytics,control,regulation,safety,warning,alert,feedback,optimization,efficiency
+thumb-tack,pin,attach,fasten,hold,secure,display,organize,post,note,document,paper,board,wall,surface,location,mark,highlight,indicate,position,placement
+thumbs-down,dislike,disapproval,rejection,negative,criticism,disagreement,dissatisfaction,opposition,disfavor,discontentment,unhappiness,displeasure,aversion,distaste,unfavorable,unpleasant,unfavorable,unimpressed,unsatisfied,unacceptable
+thumbs-o-down,dislike,disapproval,negative,rejection,downvote,criticism,disagreement,disfavor,opposition,thumbs-down,decline,dismiss,deny,reject,disapprove,unhappy,unsatisfied,unfavorable,unimpressed,dissatisfied,discontent,displeasure,distaste,disdain,contempt,aversion,repudiation,repulsion,repugnance,reprehension
+thumbs-o-up,like,approval,positive,upvote,support,agreement,favor,endorsement,thumbs-up,accept,agree,approve,appreciate,admire,applaud,encourage,endorse,favor,praise,recommend,satisfied,pleased,content,delighted,enthusiastic,favorable,appreciative,complimentary,commendatory,approbatory
+thumbs-up,like,approval,positive,upvote,support,agreement,favor,endorsement,thumbs-up,accept,agree,approve,appreciate,admire,applaud,encourage,endorse,favor,praise,recommend,satisfied,pleased,content,delighted,enthusiastic,favorable,appreciative,complimentary,commendatory,approbatory
+ticket,admission,entry,pass,reservation,event,concert,show,performance,travel,transportation,airline,train,bus,movie,theater,festival,conference,convention,exhibition,fair,game,race,lottery,raffle,coupon,voucher,receipt,stub,token,permit
+times,close,cancel,delete,remove,exit,quit,stop,end,terminate,dismiss,reject,decline,deny,refuse,abolish,annul,abrogate,repeal,rescind,revoke,nullify,void,eliminate,erase,expunge,extinguish,obliterate,eradicate,extirpate,exterminate
+times-circle,close,cancel,delete,remove,exit,quit,stop,end,terminate,dismiss,reject,decline,deny,refuse,abolish,annul,abrogate,repeal,rescind,revoke,nullify,void,eliminate,erase,expunge,extinguish,obliterate,eradicate,extirpate,exterminate
+times-circle-o,close,cancel,delete,remove,exit,quit,stop,end,terminate,dismiss,reject,decline,deny,refuse,abolish,annul,abrogate,repeal,rescind,revoke,nullify,void,eliminate,erase,expunge,extinguish,obliterate,eradicate,extirpate,exterminate
+times-rectangle,close,cancel,delete,remove,exit,quit,stop,end,terminate,dismiss,reject,decline,deny,refuse,abolish,annul,abrogate,repeal,rescind,revoke,nullify,void,eliminate,erase,expunge,extinguish,obliterate,eradicate,extirpate,exterminate
+times-rectangle-o,close,cancel,delete,remove,exit,quit,stop,end,terminate,dismiss,reject,decline,deny,refuse,abolish,annul,abrogate,repeal,rescind,revoke,nullify,void,eliminate,erase,expunge,extinguish,obliterate,eradicate,extirpate,exterminate
+tint,color,hue,shade,tone,tint,pigment,dye,paint,ink,filter,overlay,gradient,blend,mix,adjust,modify,customize,personalize,stylize,decorate,embellish,enhance,accentuate,highlight,emphasize,draw attention,colorize,tincture,chromatic,pigmentation
+toggle-down,switch,toggle,dropdown,menu,option,setting,preference,control,adjust,change,select,choose,pick,activate,deactivate,enable,disable,turn on,turn off,up,down,open,close,expand,collapse
+toggle-left,switch,toggle,dropdown,menu,option,setting,preference,control,adjust,change,select,choose,pick,activate,deactivate,enable,disable,turn on,turn off,left,right,open,close,expand,collapse
+toggle-off,switch,toggle,button,control,setting,preference,option,disable,deactivate,turn off,power off,shut down,inactive,unselected,unchecked,off,deselect,disengage,disconnect,halt,stop,cease,end,terminate
+toggle-on,switch,toggle,button,control,setting,preference,option,enable,activate,turn on,power on,start up,active,selected,checked,on,select,engage,connect,begin,start,initiate,launch,trigger
+toggle-right,switch,toggle,dropdown,menu,option,setting,preference,control,adjust,change,select,choose,pick,activate,deactivate,enable,disable,turn on,turn off,left,right,open,close,expand,collapse
+toggle-up,switch,toggle,dropdown,menu,option,setting,preference,control,adjust,change,select,choose,pick,activate,deactivate,enable,disable,turn on,turn off,up,down,open,close,expand,collapse
+trademark,brand,logo,symbol,design,identity,ownership,copyright,registered,exclusive,distinctive,recognizable,commercial,marketing,advertising,promotion,business,company,product,service,intellectual property
+trash,garbage,waste,rubbish,junk,disposal,delete,remove,discard,throw away,dump,recycle,bin,can,dumpster,landfill, litter,refuse, scrap,debris, clutter, discard, eliminate, erase, expunge, purge, clear out
+trash-o,garbage,waste,rubbish,junk,disposal,delete,remove,discard,throw away,dump,recycle,bin,can,dumpster,landfill, litter,refuse, scrap,debris, clutter, discard, eliminate, erase, expunge, purge, clear out
+tree,nature,plant,growth,branch,leaf,root,trunk,foliage,environment,organic,natural,botanical,arboreal,forestry,landscape,garden,park,ecosystem,wildlife,outdoors,green,ecology,botany,horticulture,arboriculture
+trophy,award,prize,recognition,achievement,accomplishment,honor,accolade,commendation,distinction,merit,victory,success,championship,competition,sports,game,contest,tournament,celebration,pride,prestige
+truck,vehicle,transport,cargo,delivery,shipping,logistics,freight,hauling,moving,construction,commercial,industrial,utility,pickup,van,semi,trailer,container,load,haul,move,transport,distribute
+tty,terminal,console,command line,interface,text-based,accessibility,assistive technology, disability, screen reader, braille display, telecommunications, communication, typing, input, output
+tv,television,screen,display,monitor,video,entertainment,broadcast,channel,program,streaming,media,news,film,series,remote,cable,satellite,digital,smart,LED,LCD,plasma
+umbrella,rain,weather,protection,shelter,cover,shade,canopy,outdoor,portable,accessory,fashion,style,storm,downpour,drizzle,precipitation,sunshade,parasol, awning, overhead
+universal-access,accessibility,disability,inclusive,equal,opportunity,ADA,assistive technology, special needs, barrier-free, universal design, accommodation, adaptation, mobility, vision, hearing
+university,college,campus,education,academic,research,knowledge,learning,degree,student,faculty,administration,campus life, dormitory, library, laboratory, lecture, curriculum, graduation
+unlock,open,access,entry,security,protection,freedom,liberty,release,free,unblock,disengage,deactivate,enable,permit,authorize,allow,grant,admit,welcome,unbar,unfasten
+unlock-alt,open,access,entry,security,protection,freedom,liberty,release,free,unblock,disengage,deactivate,enable,permit,authorize,allow,grant,admit,welcome,unbar,unfasten
+unsorted,unorganized,disorderly,chaotic,messy,jumbled,mixed,scattered, unclassified, uncategorized, unstructured, random, haphazard, disarray, disorganized, unrefined, unfiltered, unprocessed
+upload,upload, file, document, data, transfer, send, share, cloud, storage, archive
+user,user, person, profile, account, identity, individual, member, employee, customer, client
+user-circle,user, profile, account, identity, individual, member, employee, customer, client, circle
+user-circle-o,user, profile, account, identity, individual, member, employee, customer, client, circle, outline
+user-o,user, profile, account, identity, individual, member, employee, customer, client, outline
+user-plus,user, profile, account, identity, individual, member, employee, customer, client, add, new, invite
+user-secret,user, profile, account, identity, individual, member, employee, customer, client, confidential, private, secure
+user-times,user, profile, account, identity, individual, member, employee, customer, client, remove, delete, dismiss
+users,users, people, profiles, accounts, identities, individuals, members, employees, customers, clients
+vcard,vcard, business, card, contact, information, address, phone, email
+vcard-o,vcard, business, card, contact, information, address, phone, email, outline
+video-camera,video, camera, recording, filming, production, multimedia, broadcast
+volume-control-phone,volume, control, phone, mobile, device, audio, sound
+volume-down,volume, down, decrease, lower, quiet, mute
+volume-off,volume, off, mute, silent, quiet, disable
+volume-up,volume, up, increase, louder, amplify, boost
+warning,warning, alert, caution, danger, risk, notice, sign
+wheelchair,wheelchair, disability, accessibility, mobility, handicap, assist
+wheelchair-alt,wheelchair, disability, accessibility, mobility, handicap, assist, alternative
+wifi,wifi, wireless, internet, network, connection, signal
+window-close,window, close, exit, quit, dismiss, remove
+window-close-o,window, close, exit, quit, dismiss, remove, outline
+window-maximize,window, maximize, fullscreen, expand, enlarge
+window-minimize,window, minimize, collapse, shrink, reduce
+window-restore,window, restore, normal, default, original
+wrench,wrench, tool, repair, maintenance, service, adjust, fix
+american-sign-language-interpreting,american, sign, language, interpreting, translation, accessibility, deaf, hard-of-hearing
+asl-interpreting,american, sign, language, interpreting, translation, accessibility, deaf, hard-of-hearing
+assistive-listening-systems,assistive, listening, systems, audio, accessibility, hearing, impaired
+audio-description,audio, description, accessibility, visual, impaired, narration
+blind,vision,sight,disability,impairment,eye,visual,blindness,guide,cane,assistance,accessibility,low-vision,partially-sighted,braille,reading,tactile,communication,accessibility,disability,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+braille,vision,sight,disability,impairment,tactile,reading,writing,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+cc,closed-captioning,subtitles,accessibility,disability,hearing-impaired,deaf,hard-of-hearing,communication,video,media,television,film,streaming,content,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+deaf,hearing,impairment,disability,communication,sign-language,lip-reading,assistive-technology,accessibility,inclusive,universal-design,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+deafness,hearing,impairment,disability,communication,sign-language,lip-reading,assistive-technology,accessibility,inclusive,universal-design,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hard-of-hearing,hearing,impairment,disability,communication,assistive-technology,accessibility,inclusive,universal-design,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+low-vision,vision,sight,disability,impairment,eye,visual,blindness,guide,cane,assistance,accessibility,partially-sighted,braille,reading,tactile,communication,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+question-circle-o,help,assistance,support,information,guidance,uncertainty,confusion,curiosity,inquiry,problem-solving,troubleshooting,accessibility,inclusive,universal-design,accommodation,independence,empowerment,advocacy,awareness,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+sign-language,deaf,hard-of-hearing,communication,language,expression,gesture,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+signing,deaf,hard-of-hearing,communication,language,expression,gesture,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+tty,deaf,hard-of-hearing,communication,telephone,text,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+universal-access,accessibility,disability,inclusive,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion,design,usability,user-friendly,barrier-free,equal-opportunity,diversity,integration
+volume-control-phone,deaf,hard-of-hearing,hearing,impairment,communication,telephone,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+wheelchair,mobility,disability,impairment,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion,transportation,navigation,movement
+wheelchair-alt,mobility,disability,impairment,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion,transportation,navigation,movement
+hand-grab-o,grasp,hold,grip,manipulation,dexterity,fine-motor,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-lizard-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-o-down,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-o-left,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-o-right,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-o-up,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-paper-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-peace-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-pointer-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-rock-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-scissors-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-spock-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+hand-stop-o,gesture,sign-language,communication,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+thumbs-down,gesture,sign-language,communication,disapproval,rejection,dislike,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+thumbs-o-down,gesture,sign-language,communication,disapproval,rejection,dislike,accessibility,inclusive,universal-design,assistive-technology,accommodation,independence,empowerment,advocacy,awareness,support,resources,education,community,inclusion,equity,equality,empathy,understanding,compassion
+fontawesome_icon,associated_words
+thumbs-o-up,approval,endorsement,encouragement,gesture,hand,like,positivity,praise,recommendation,support,thumbs-up,acceptance,affirmation,agreement,appreciation,assent,commendation,confirmation,consent,encouragement,esteem,favor,feedback,gratitude,happiness,high-five,joy,liking,optimism,positivity,recognition,satisfaction,success,thumbs-up,validation
+thumbs-up,approval,endorsement,encouragement,gesture,hand,like,positivity,praise,recommendation,support,thumbs-up,acceptance,affirmation,agreement,appreciation,assent,commendation,confirmation,consent,encouragement,esteem,favor,feedback,gratitude,happiness,high-five,joy,liking,optimism,positivity,recognition,satisfaction,success,thumbs-up,validation
+ambulance,emergency,first-aid,healthcare,medical,rescue,transport,accident,aid,assistance,care,critical,emergency-vehicle,ems,evacuation,help,hospital,life-saving,medical-emergency,paramedic,patient,response,safety,siren,treatment,urgent
+automobile,car,vehicle,driving,engine,gas,highway,mobility,road,transportation,auto,automotive,commute,engine,gasoline,highway,mobility,motor,motorized,road,traffic,travel,wheels
+bicycle,cycling,exercise,fitness,green,pedal,recreation,sport,transportation,bike,cycle,eco-friendly,exercise,green,health,mobility,outdoor,pedal,recreation,ride,transportation
+bus,public-transportation,travel,commute,mass-transit,passenger,route,school,shuttle,transportation,vehicle,city,commute,mass-transit,passenger,public,route,school,service,transportation
+cab,taxi,transportation,vehicle,car,driver,fare,hire,ride,service,travel,urban
+car,automobile,vehicle,driving,engine,gas,highway,mobility,road,transportation,auto,automotive,commute,engine,gasoline,highway,mobility,motor,motorized,road,traffic,travel,wheels
+fighter-jet,air-force,aviation,combat,military,speed,technology,war,aerial,aircraft,attack,defense,flight,jet,military,pilot,power,speed,stealth,technology,warfare
+motorcycle,bike,cycle,transportation,vehicle,adventure,engine,freedom,mobility,outdoor,power,ride,speed,transportation,travel
+plane,aircraft,aviation,flight,travel,air,airport,altitude,aviation,flight,jet,pilot,sky,speed,transportation,travel
+rocket,aerospace,exploration,launch,military,science,space,technology,acceleration,altitude,exploration,fuel,launch,military,power,propulsion,science,spacecraft,speed,technology
+ship,boat,maritime,naval,ocean,transportation,vessel,cargo,cruise,dock,ferry,harbor,maritime,nautical,ocean,port,sail,seafaring,transportation,travel,vessel,water
+space-shuttle,aerospace,exploration,launch,nasa,science,space,technology,astronaut,exploration,flight,launch,mission,orbit,rocket,science,spacecraft,space-exploration,technology
+subway,metro,public-transportation,train,transit,underground,city,commute,mass-transit,passenger,public,rail,rapid-transit,station,transportation,travel,tunnel,urban
+taxi,cab,transportation,vehicle,car,driver,fare,hire,ride,service,travel,urban
+train,locomotive,public-transportation,rail,transportation,travel,commute,engine,mass-transit,passenger,rail,railroad,railway,station,track,transportation,travel
+truck,cargo,commercial,delivery,heavy-duty,industrial,transportation,vehicle,cargo,commercial,construction,delivery,freight,hauling,heavy-duty,logistics,transport,transportation
+wheelchair,accessibility,disability,mobility,medical,aid,assistive-technology,disability,handicap,health,impairment,inclusive,medical,mobility,special-needs
+wheelchair-alt,accessibility,disability,mobility,medical,aid,assistive-technology,disability,handicap,health,impairment,inclusive,medical,mobility,special-needs
+genderless,gender,identity,inclusive,neutral,non-binary,sexuality,androgynous,equality,fluid,gender-neutral,inclusive,non-binary,queer,sexuality
+intersex,gender,identity,inclusive,sex,sexuality,anatomy,biology,diversity,equality,gender,inclusive,lgbtq,sex,sexuality
+mars,gender,identity,male,masculinity,symbol,astronomy,gender,male,masculinity,planet,symbol
+mars-double,gender,identity,male,masculinity,symbol,astronomy,gender,male,masculinity,symbol
+mars-stroke,gender,identity,male,masculinity,symbol,astronomy,gender,male,masculinity,symbol
+mars-stroke-h,gender,identity,male,masculinity,symbol,astronomy,gender,male,masculinity,symbol
+mars-stroke-v,gender,identity,male,masculinity,symbol,astronomy,gender,male,masculinity,symbol
+mercury,gender,identity,symbol,astronomy,gender,identity,symbol
+neuter,gender,identity,inclusive,neutral,non-binary,sexuality,androgynous,equality,fluid,gender-neutral,inclusive,non-binary,queer,sexuality
+transgender,gender,identity,inclusive,lgbtq,sexuality,diversity,equality,expression,gender,identity,inclusive,lgbtq,transition
+transgender-alt,gender,identity,expression,transition,lgbtq,nonbinary,queer,fluid,pronouns,representation,acceptance,equality,diversity,inclusion,pride,community,support,visibility,awareness,advocacy,empowerment,transformation,self-expression,social-justice,human-rights,activism,education,understanding,tolerance,respect
+venus,female,goddess,love,beauty,fertility,sexuality,mythology,roman,astrology,planet,symbol,femininity,grace,charm,seduction,desire,passion,romance,art,culture,representation,power,strength,wisdom
+venus-double,gender,identity,expression,nonbinary,genderfluid,lgbtq,queer,representation,equality,diversity,inclusion,acceptance,visibility,awareness,community,support,empowerment,self-expression,social-justice,human-rights,activism,education,understanding,tolerance,respect
+venus-mars,gender,identity,expression,nonbinary,genderfluid,lgbtq,queer,representation,equality,diversity,inclusion,acceptance,visibility,awareness,community,support,empowerment,self-expression,social-justice,human-rights,activism,education,understanding,tolerance,respect
+file,document,data,information,storage,organization,management,archive,backup,transfer,share,access,edit,save,open,close,delete,rename,sort,search,retrieve,collaborate,secure,protect,version,control,workflow,productivity,efficiency
+file-archive-o,compression,zip,rar,tar,gzip,7z,archive,backup,storage,organization,management,transfer,share,access,secure,protect,compress,decompress,extract,save,download,upload,productivity,efficiency
+file-audio-o,audio,music,sound,recording,podcast,radio,media,entertainment,communication,education,presentation,accessibility,multimedia,storage,organization,management,transfer,share,access,secure,protect
+file-code-o,code,programming,software,development,engineering,technology,web,app,script,syntax,editor,compiler,interpreter,version-control,collaboration,productivity,efficiency,security,debugging,testing
+file-excel-o,spreadsheet,data,analysis,calculation,finance,accounting,business,organization,management,reporting,visualization,productivity,efficiency
+file-image-o,image,photo,picture,graphic,visual,media,art,design,photography,editing,storage,organization,management,transfer,share,access,secure,protect
+file-movie-o,video,film,media,entertainment,communication,education,presentation,accessibility,multimedia,storage,organization,management,transfer,share,access,secure,protect
+file-o,document,data,information,storage,organization,management,archive,backup,transfer,share,access,edit,save,open,close,delete,rename,sort,search,retrieve,collaborate,secure,protect,version,control,workflow,productivity,efficiency
+file-pdf-o,document,pdf,portable,format,print,read,share,secure,protect,storage,organization,management,transfer,access,collaborate,workflow,productivity,efficiency
+file-photo-o,image,photo,picture,graphic,visual,media,art,design,photography,editing,storage,organization,management,transfer,share,access,secure,protect
+file-picture-o,image,photo,picture,graphic,visual,media,art,design,photography,editing,storage,organization,management,transfer,share,access,secure,protect
+file-powerpoint-o,presentation,slideshow,media,communication,education,business,organization,management,reporting,visualization,productivity,efficiency
+file-sound-o,audio,music,sound,recording,podcast,radio,media,entertainment,communication,education,presentation,accessibility,multimedia,storage,organization,management,transfer,share,access,secure,protect
+file-text,document,text,content,writing,editing,formatting,storage,organization,management,transfer,share,access,collaborate,workflow,productivity,efficiency
+file-text-o,document,text,content,writing,editing,formatting,storage,organization,management,transfer,share,access,collaborate,workflow,productivity,efficiency
+file-video-o,video,film,media,entertainment,communication,education,presentation,accessibility,multimedia,storage,organization,management,transfer,share,access,secure,protect
+file-word-o,document,word,text,writing,editing,formatting,storage,organization,management,transfer,share,access,collaborate,workflow,productivity,efficiency
+file-zip-o,compression,zip,rar,tar,gzip,7z,archive,backup,storage,organization,management,transfer,share,access,secure,protect,compress,decompress,extract,save,download,upload,productivity,efficiency
+circle-o-notch,loading,processing,waiting,progress,refresh,update,sync,rotate,spin,animation,user-interface,user-experience,feedback,status,indicator,productivity,efficiency
+cog,settings,configuration,preferences,options,tools,gear,mechanism,machine,system,control,customize,manage,optimize,productivity,efficiency
+gear,settings,configuration,preferences,options,tools,cog,mechanism,machine,system,control,customize,manage,optimize,productivity,efficiency
+refresh,update,reload,renew,restore,reset,revive,recharge,restart,retry,retry,synchronize,reload,recalculate,productivity,efficiency
+spinner,loading,processing,waiting,progress,animation,user-interface,user-experience,feedback,status,indicator,rotation,spin,dynamic,interactive,productivity,efficiency
+check-square,confirm,approve,accept,select,tick,complete,done,success,verification,validation,agreement,decision,choice,productivity,efficiency
+check-square-o,confirm,approve,accept,select,tick,complete,done,success,verification,validation,agreement,decision,choice,productivity,efficiency
+circle,shape,geometry,symbol,icon,design,ui,ux,interface,navigation,button,indicator,status,highlight,focus,selection,organization,structure
+circle-o,circular,outline,empty,unfilled,hollow,basic,simple,minimalist,geometric,neutral,versatile,placeholder,indicator,symbol,button,menu,interface,design,UI,UX
+dot-circle-o,circular,outline,filled,solid,point,marker,indicator,selection,choice,option,radio,button,interface,UI,UX,navigation,menu,form,input,control
+minus-square,square,outline,negative,subtract,remove,delete,close,minimize,collapse,reduce,interface,UI,UX,button,control,action,function,tool,menu,application
+minus-square-o,square,outline,empty,unfilled,negative,subtract,remove,delete,close,minimize,collapse,reduce,interface,UI,UX,button,control,action,function,tool,menu
+plus-square,square,outline,positive,add,create,expand,open,increase,interface,UI,UX,button,control,action,function,tool,menu,application,feature,operation
+plus-square-o,square,outline,empty,unfilled,positive,add,create,expand,open,increase,interface,UI,UX,button,control,action,function,tool,menu,application
+square,geometric,shape,box,container,frame,interface,UI,UX,button,control,menu,application,design,layout,organization,structure,placeholder,indicator,symbol
+square-o,geometric,shape,box,container,frame,outline,empty,unfilled,interface,UI,UX,button,control,menu,application,design,layout,organization,structure,placeholder
+cc-amex,credit,card,payment,finance,american,express,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-diners-club,credit,card,payment,finance,diners,club,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-discover,credit,card,payment,finance,discover,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-jcb,credit,card,payment,finance,jcb,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-mastercard,credit,card,payment,finance,mastercard,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-paypal,credit,card,payment,finance,paypal,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-stripe,credit,card,payment,finance,stripe,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+cc-visa,credit,card,payment,finance,visa,brand,logo,icon,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX
+credit-card,payment,finance,banking,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX,plastic,wallet,identification,security
+credit-card-alt,payment,finance,banking,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX,plastic,wallet,identification,security,alternative,variant
+google-wallet,payment,finance,banking,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX,google,brand,digital,mobile,wallet
+paypal,payment,finance,banking,transaction,purchase,commerce,business,financial,service,application,interface,UI,UX,brand,digital,online,ecommerce
+area-chart,data,visualization,analytics,statistics,graph,chart,diagram,infographic,information,analysis,reporting,business,finance,research,decision-making,planning,strategy
+bar-chart,data,visualization,analytics,statistics,graph,chart,diagram,infographic,information,analysis,reporting,business,finance,research,decision-making,planning,strategy
+bar-chart-o,data,visualization,analytics,statistics,graph,chart,diagram,infographic,information,analysis,reporting,business,finance,research,decision-making,planning,strategy,outline,empty
+line-chart,data,visualization,analytics,statistics,graph,chart,diagram,infographic,information,analysis,reporting,business,finance,research,decision-making,planning,strategy,trend,progress
+pie-chart,data,visualization,analytics,statistics,graph,chart,diagram,infographic,information,analysis,reporting,business,finance,research,decision-making,planning,strategy,breakdown,composition
+bitcoin,cryptocurrency,digital,currency,finance,payment,transaction,investment,technology,blockchain,decentralized,virtual,online,trading,exchange,security,innovation
+btc,bitcoin,cryptocurrency,digital,currency,finance,payment,transaction,investment,technology,blockchain,decentralized,virtual,online,trading,exchange,security,innovation
+cny,currency,chinese,yuan,finance,payment,transaction,international,exchange,trade,business,economics,market,global
+dollar,currency,money,finance,payment,transaction,banking,economics,business,market,investment,wealth,income,cost,price
+euro,currency,money,finance,banking,exchange,euro sign,european union,euro symbol,euro coin,euro banknote,euro note,euro bill,euro currency,euro exchange,euro conversion,euro transaction,euro payment,euro deposit,euro withdrawal
+gbp,currency,money,finance,banking,exchange,british pound,pound sterling,pound sign,pound symbol,pound coin,pound banknote,pound note,pound bill,british currency,british exchange,british transaction,british payment,british deposit,british withdrawal
+gg,game,gaming,esports,twitch,youtube,streaming,video games,online gaming,competitive gaming,gamer,gaming community,gaming platform,gaming channel,gaming content,gaming influencer,gaming personality,gaming tournament,gaming event,gaming culture
+gg-circle,game,gaming,esports,twitch,youtube,streaming,video games,online gaming,competitive gaming,gamer,gaming community,gaming platform,gaming channel,gaming content,gaming influencer,gaming personality,gaming tournament,gaming event,gaming culture
+ils,currency,money,finance,banking,exchange,israeli shekel,israeli currency,israeli money,israeli exchange,israeli transaction,israeli payment,israeli deposit,israeli withdrawal,middle eastern currency,middle eastern money,middle eastern finance,middle eastern banking
+inr,currency,money,finance,banking,exchange,indian rupee,indian currency,indian money,indian exchange,indian transaction,indian payment,indian deposit,indian withdrawal,south asian currency,south asian money,south asian finance,south asian banking
+jpy,currency,money,finance,banking,exchange,japanese yen,japanese currency,japanese money,japanese exchange,japanese transaction,japanese payment,japanese deposit,japanese withdrawal,east asian currency,east asian money,east asian finance,east asian banking
+krw,currency,money,finance,banking,exchange,south korean won,korean currency,korean money,korean exchange,korean transaction,korean payment,korean deposit,korean withdrawal,east asian currency,east asian money,east asian finance,east asian banking
+money,currency,finance,banking,payment,transaction,wealth,income,savings,investment,economics,business,commerce,trade,exchange,cash,coins,bills,notes,wallet,purse
+rmb,currency,money,finance,banking,exchange,chinese renminbi,chinese yuan,chinese currency,chinese money,chinese exchange,chinese transaction,chinese payment,chinese deposit,chinese withdrawal,east asian currency,east asian money,east asian finance,east asian banking
+rouble,currency,money,finance,banking,exchange,russian ruble,russian currency,russian money,russian exchange,russian transaction,russian payment,russian deposit,russian withdrawal,eastern european currency,eastern european money,eastern european finance,eastern european banking
+rub,currency,money,finance,banking,exchange,russian ruble,russian currency,russian money,russian exchange,russian transaction,russian payment,russian deposit,russian withdrawal,eastern european currency,eastern european money,eastern european finance,eastern european banking
+ruble,currency,money,finance,banking,exchange,russian ruble,russian currency,russian money,russian exchange,russian transaction,russian payment,russian deposit,russian withdrawal,eastern european currency,eastern european money,eastern european finance,eastern european banking
+rupee,currency,money,finance,banking,exchange,indian rupee,south asian currency,south asian money,south asian finance,south asian banking,south asian exchange,south asian transaction,south asian payment,south asian deposit,south asian withdrawal
+shekel,currency,money,finance,banking,exchange,israeli shekel,middle eastern currency,middle eastern money,middle eastern finance,middle eastern banking,middle eastern exchange,middle eastern transaction,middle eastern payment,middle eastern deposit,middle eastern withdrawal
+sheqel,currency,money,finance,banking,exchange,israeli shekel,middle eastern currency,middle eastern money,middle eastern finance,middle eastern banking,middle eastern exchange,middle eastern transaction,middle eastern payment,middle eastern deposit,middle eastern withdrawal
+try,currency,money,finance,banking,exchange,turkish lira,turkish currency,turkish money,turkish exchange,turkish transaction,turkish payment,turkish deposit,turkish withdrawal,middle eastern currency,middle eastern money,middle eastern finance,middle eastern banking
+turkish-lira,currency,money,finance,banking,exchange,turkish lira,turkish currency,turkish money,turkish exchange,turkish transaction,turkish payment,turkish deposit,turkish withdrawal,middle eastern currency,middle eastern money,middle eastern finance,middle eastern banking
+usd,currency,money,finance,banking,exchange,us dollar,american currency,american money,american exchange,american transaction,american payment,american deposit,american withdrawal,global currency,global money,global finance,global banking
+viacoin,cryptocurrency,digital currency,blockchain,finance,technology,payment,transaction,investment,trading,exchange,wallet,mining,decentralization,peer-to-peer,virtual currency
+won,currency,money,finance,banking,exchange,south korean won,korean currency,korean money,korean exchange,korean transaction,korean payment,korean deposit,korean withdrawal,east asian currency,east asian money,east asian finance,east asian banking
+yen,currency,money,finance,banking,exchange,japanese yen,japanese currency,japanese money,japanese exchange,japanese transaction,japanese payment,japanese deposit,japanese withdrawal,east asian currency,east asian money,east asian finance,east asian banking
+align-center,text,formatting,layout,alignment,design,typography,content,document,presentation,web,print,publishing,editing,formatting,centering,justification,balance,symmetry,visual
+align-justify,text,formatting,layout,alignment,design,typography,content,document,presentation,web,print,publishing,editing,formatting,justification,balance,symmetry,visual,even
+align-left,text,formatting,layout,alignment,design,typography,content,document,presentation,web,print,publishing,editing,formatting,left-aligned,left-justified,balance,visual
+align-right,text,formatting,layout,alignment,design,typography,content,document,presentation,web,print,publishing,editing,formatting,right-aligned,right-justified,balance,visual
+bold,text,formatting,style,emphasis,weight,thickness,font,typography,design,content,document,presentation,web,print,publishing,editing,readability,visibility
+chain,connection,link,network,relationship,dependency,attachment,binding,constraint,process,workflow,organization,structure,security,strength,durability
+chain-broken,disconnection,separation,breakage,disruption,weakness,vulnerability,failure,malfunction,problem,issue,obstacle,challenge,obstruction,detachment
+clipboard,copy,paste,cut,save,store,transfer,document,data,information,notes,text,image,file,productivity,organization,workflow
+columns,spreadsheet,table,grid,data,organize,structure,layout,format,display,arrange,categorize,tabulate,database,excel,sheet,row,column,cell,filter,sort,group,pivot,aggregate,calculate,analyze,report,visualize,collaborate,share,manage,office,productivity
+copy,duplicate,replicate,clone,reproduce,paste,transfer,save,backup,archive,distribute,share,disseminate,propagate,multiply,mirror,synchronize,version,template,document,file,data,information,asset,resource,intellectual property
+cut,remove,delete,trim,crop,extract,separate,divide,split,carve,slice,snip,prune,edit,modify,manipulate,process,prepare,format,customize,personalize
+dedent,indent,align,format,structure,organize,code,syntax,programming,development,text,document,layout,spacing,hierarchy,readability,style
+eraser,delete,remove,clean,clear,erase,undo,correct,fix,edit,modify,refine,improve,revise,update,rework,refactor,debug,fix,repair
+file,document,record,data,information,asset,resource,archive,store,organize,manage,access,retrieve,share,collaborate,backup,version,folder,directory
+file-o,document,record,data,information,asset,resource,archive,store,organize,manage,access,retrieve,share,collaborate,backup,version,folder,directory
+file-text,document,record,data,information,asset,resource,archive,store,organize,manage,access,retrieve,share,collaborate,backup,version,folder,directory,text,content,format
+file-text-o,document,record,data,information,asset,resource,archive,store,organize,manage,access,retrieve,share,collaborate,backup,version,folder,directory,text,content,format
+files-o,documents,records,data,information,assets,resources,archive,store,organize,manage,access,retrieve,share,collaborate,backup,version,folders,directories
+floppy-o,save,backup,storage,disk,archive,data,file,document,legacy,obsolete,retro,nostalgia
+font,text,typography,style,formatting,appearance,design,layout,readability,branding,visual,identity
+header,title,section,section,navigation,structure,organization,hierarchy,content,document,page,website
+indent,align,format,structure,organize,code,syntax,programming,development,text,document,layout,spacing,hierarchy,readability,style
+italic,font,text,style,formatting,emphasis,expression,tone,design,typography
+link,connect,relate,associate,reference,navigate,share,access,url,website,hyperlink,network
+list,organize,structure,format,display,bullet,numbered,hierarchy,outline,content,data,information
+list-alt,organize,structure,format,display,bullet,numbered,hierarchy,outline,content,data,information
+list-ol,organize,structure,format,display,numbered,hierarchy,outline,content,data,information
+list-ul,organize,structure,format,display,bullet,hierarchy,outline,content,data,information
+outdent,align,format,structure,organize,code,syntax,programming,development,text,document,layout,spacing,hierarchy,readability,style
+paperclip,attach,connect,bind,fasten,organize,document,file,email,correspondence,office,stationery
+paragraph,text,content,formatting,layout,structure,organization,hierarchy,writing,document,article,essay
+paste,insert,add,place,apply,attach,append,combine,merge,copy,duplicate,transfer,share
+repeat,loop,cycle,iterate,duplicate,replicate,reproduce,automate,pattern,sequence,routine
+rotate-left,flip,mirror,reverse,invert,transform,edit,manipulate,image,graphic,photo,design
+rotate-right,flip,mirror,reverse,invert,transform,edit,manipulate,image,graphic,photo,design
+save,store,preserve,protect,backup,archive,retain,secure,keep,file,document,data,information
+scissors,cut,trim,snip,slice,separate,divide,edit,modify,process,prepare,customize,personalize
+strikethrough,text,formatting,style,edit,revise,delete,remove,cross-out,markup,proofreading
+subscript,document, text, formatting, superscript, script, subscript, typography, writing, editing, layout
+superscript,document, text, formatting, subscript, script, superscript, typography, writing, editing, layout
+table,data, spreadsheet, grid, rows, columns, cells, tabular, organization, structure, presentation
+text-height,font, size, typography, formatting, text, adjust, resize, layout, design, appearance
+text-width,font, size, typography, formatting, text, adjust, resize, layout, design, appearance
+th,table, header, column, cell, data, spreadsheet, grid, organization, structure, presentation
+th-large,table, header, column, cell, data, spreadsheet, grid, organization, structure, presentation, large
+th-list,table, header, column, cell, data, spreadsheet, grid, organization, structure, presentation, list
+underline,text, formatting, style, emphasis, highlight, editing, writing, document, typography, layout
+undo,edit, reverse, cancel, revert, change, correction, mistake, action, command, history
+unlink,hyperlink, disconnect, remove, break, detach, web, internet, navigation, URL, relationship
+angle-double-down,navigation, scroll, down, arrows, double, chevron, direction, movement, interface, UI
+angle-double-left,navigation, scroll, left, arrows, double, chevron, direction, movement, interface, UI
+angle-double-right,navigation, scroll, right, arrows, double, chevron, direction, movement, interface, UI
+angle-double-up,navigation, scroll, up, arrows, double, chevron, direction, movement, interface, UI
+angle-down,navigation, scroll, down, arrow, chevron, direction, movement, interface, UI, dropdown
+angle-left,navigation, scroll, left, arrow, chevron, direction, movement, interface, UI, previous
+angle-right,navigation, scroll, right, arrow, chevron, direction, movement, interface, UI, next
+angle-up,navigation, scroll, up, arrow, chevron, direction, movement, interface, UI, dropdown
+arrow-circle-down,navigation, scroll, down, circle, button, direction, movement, interface, UI, click
+arrow-circle-left,navigation, scroll, left, circle, button, direction, movement, interface, UI, click
+arrow-circle-o-down,navigation, scroll, down, circle, outline, button, direction, movement, interface, UI, click
+arrow-circle-o-left,navigation, scroll, left, circle, outline, button, direction, movement, interface, UI, click
+arrow-circle-o-right,navigation, scroll, right, circle, outline, button, direction, movement, interface, UI, click
+arrow-circle-o-up,navigation, scroll, up, circle, outline, button, direction, movement, interface, UI, click
+arrow-circle-right,navigation, scroll, right, circle, button, direction, movement, interface, UI, click
+arrow-circle-up,navigation, scroll, up, circle, button, direction, movement, interface, UI, click
+arrow-down,navigation, scroll, down, direction, movement, interface, UI, click, drag, drop
+arrow-left,navigation, scroll, left, direction, movement, interface, UI, click, drag, drop
+arrow-right,navigation, scroll, right, direction, movement, interface, UI, click, drag, drop
+arrow-up,ascend,ascension,climb,direct,direction,elevation,escalate,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+arrows,adjust,alternate,change,control,cursor,direct,direction,exchange,guide,interface,manipulate,move,navigate,point,position,redirect,shift,switch,toggle,transport,travel
+arrows-alt,adjust,alternate,change,control,cursor,direct,direction,exchange,guide,interface,manipulate,move,navigate,point,position,redirect,shift,switch,toggle,transport,travel
+arrows-h,adjust,alternate,change,control,cursor,direct,direction,exchange,guide,interface,manipulate,move,navigate,point,position,redirect,shift,switch,toggle,transport,travel
+arrows-v,adjust,alternate,change,control,cursor,direct,direction,exchange,guide,interface,manipulate,move,navigate,point,position,redirect,shift,switch,toggle,transport,travel
+caret-down,descend,decline,decrease,direct,direction,down,downward,drop,fall,guide,lower,move_down,navigate,point_down,shift_down,submit,submit_form
+caret-left,back,backward,direct,direction,guide,left,leftward,move_left,navigate,point_left,previous,redirect,shift_left
+caret-right,advance,direct,direction,forward,guide,move_right,navigate,next,point_right,redirect,right,rightward,shift_right
+caret-square-o-down,descend,decline,decrease,direct,direction,down,downward,drop,fall,guide,lower,move_down,navigate,point_down,shift_down,submit,submit_form
+caret-square-o-left,back,backward,direct,direction,guide,left,leftward,move_left,navigate,point_left,previous,redirect,shift_left
+caret-square-o-right,advance,direct,direction,forward,guide,move_right,navigate,next,point_right,redirect,right,rightward,shift_right
+caret-square-o-up,ascend,ascension,climb,direct,direction,elevation,escalate,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+caret-up,ascend,ascension,climb,direct,direction,elevation,escalate,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+chevron-circle-down,descend,decline,decrease,direct,direction,down,downward,drop,fall,guide,lower,move_down,navigate,point_down,shift_down,submit,submit_form
+chevron-circle-left,back,backward,direct,direction,guide,left,leftward,move_left,navigate,point_left,previous,redirect,shift_left
+chevron-circle-right,advance,direct,direction,forward,guide,move_right,navigate,next,point_right,redirect,right,rightward,shift_right
+chevron-circle-up,ascend,ascension,climb,direct,direction,elevation,escalate,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+chevron-down,descend,decline,decrease,direct,direction,down,downward,drop,fall,guide,lower,move_down,navigate,point_down,shift_down,submit,submit_form
+chevron-left,back,backward,direct,direction,guide,left,leftward,move_left,navigate,point_left,previous,redirect,shift_left
+chevron-right,advance,direct,direction,forward,guide,move_right,navigate,next,point_right,redirect,right,rightward,shift_right
+chevron-up,ascend,ascension,climb,direct,direction,elevation,escalate,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+exchange,alternate,change,convert,cross,direct,direction,guide,interchange,move,navigate,redirect,shift,swap,switch,toggle,trade,transform,transition,transport,travel
+hand-o-down,descend,decline,decrease,direct,direction,down,downward,drop,fall,gesture,guide,lower,move_down,navigate,point_down,shift_down,submit,submit_form
+hand-o-left,back,backward,direct,direction,gesture,guide,left,leftward,move_left,navigate,point_left,previous,redirect,shift_left
+hand-o-right,advance,direct,direction,forward,gesture,guide,move_right,navigate,next,point_right,redirect,right,rightward,shift_right
+hand-o-up,ascend,ascension,climb,direct,direction,elevation,escalate,gesture,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+long-arrow-down,descend,decline,decrease,direct,direction,down,downward,drop,fall,guide,lower,move_down,navigate,point_down,shift_down,submit,submit_form
+long-arrow-left,back,backward,direct,direction,guide,left,leftward,move_left,navigate,point_left,previous,redirect,shift_left
+long-arrow-right,advance,direct,direction,forward,guide,move_right,navigate,next,point_right,redirect,right,rightward,shift_right
+long-arrow-up,ascend,ascension,climb,direct,direction,elevation,escalate,go_up,guide,incline,increase,lift,move_up,navigate,point_up,progress,raise,rise,shift_up,soar,submit,submit_form,surge,top,transport,travel,trend_up,up,upward,vertical
+toggle-down,toggle, switch, dropdown, menu, control, interface, navigation, button, click, select, option, preference, setting, adjust, configure
+toggle-left,toggle, switch, sidebar, menu, control, interface, navigation, button, click, select, option, preference, setting, adjust, configure
+toggle-right,toggle, switch, sidebar, menu, control, interface, navigation, button, click, select, option, preference, setting, adjust, configure
+toggle-up,toggle, switch, dropdown, menu, control, interface, navigation, button, click, select, option, preference, setting, adjust, configure
+arrows-alt,resize, expand, fullscreen, maximize, minimize, scale, adjust, stretch, zoom, enlarge, shrink, fit, display, layout
+backward,rewind, reverse, previous, go back, undo, navigate, media controls, playback, timeline, video, audio
+compress,minimize, shrink, reduce, condense, compact, collapse, close, hide, conceal, squeeze, pack, downsize
+eject,remove, release, open, pop out, expel, discharge, unload, extract, take out, push out
+expand,enlarge, grow, stretch, scale, maximize, extend, widen, broaden, increase, spread, unfold, open up
+fast-backward,rewind, reverse, previous, go back, undo, navigate, media controls, playback, timeline, video, audio
+fast-forward,advance, next, proceed, navigate, media controls, playback, timeline, video, audio
+forward,advance, next, proceed, navigate, media controls, playback, timeline, video, audio
+pause,stop, hold, freeze, suspend, delay, interrupt, wait, break, intermission, rest, leisure
+pause-circle,stop, hold, freeze, suspend, delay, interrupt, wait, break, intermission, rest, leisure, media controls, playback
+pause-circle-o,stop, hold, freeze, suspend, delay, interrupt, wait, break, intermission, rest, leisure, media controls, playback
+play,start, begin, launch, activate, run, execute, perform, operate, stream, watch, listen
+play-circle,start, begin, launch, activate, run, execute, perform, operate, stream, watch, listen, media controls, playback
+play-circle-o,start, begin, launch, activate, run, execute, perform, operate, stream, watch, listen, media controls, playback
+random,shuffle, mix, randomize, unpredictable, chance, variety, diverse, eclectic, spontaneous, unplanned
+step-backward,rewind, reverse, previous, go back, undo, navigate, media controls, playback, timeline, video, audio
+step-forward,advance, next, proceed, navigate, media controls, playback, timeline, video, audio
+stop,cease, end, terminate, halt, discontinue, pause, interrupt, conclude, finish, exit
+stop-circle,cease, end, terminate, halt, discontinue, pause, interrupt, conclude, finish, exit, media controls, playback
+stop-circle-o,cease, end, terminate, halt, discontinue, pause, interrupt, conclude, finish, exit, media controls, playback
+youtube-play,video, watch, stream, play, media, entertainment, platform, channel, content, upload, share
+500px,photography, photo, image, camera, social media, portfolio, sharing, community, creative
+adn,social media, community, network, platform, connect, share, collaborate, engage
+amazon,online shopping, e-commerce, retail, marketplace, products, services, delivery, customer
+android,mobile, smartphone, operating system, apps, google, technology, open source
+angellist,startups, entrepreneurship, investment, funding, networking, community, innovation
+apple,fruit, computer, logo, technology, device, smartphone, tablet, macintosh, iOS, software
+bandcamp,music, audio, streaming, platform, artist, album, song, record, indie, community
+behance,design, portfolio, creative, platform, network, showcase, project, art, inspiration, adobe
+behance-square,design, portfolio, creative, platform, network, showcase, project, art, inspiration, adobe
+bitbucket,code, repository, version control, software, development, git, hosting, collaboration, team, project
+bitbucket-square,code, repository, version control, software, development, git, hosting, collaboration, team, project
+bitcoin,cryptocurrency, digital, finance, payment, blockchain, decentralized, investment, trading, wallet, mining
+black-tie,formal, elegant, tuxedo, suit, event, gala, wedding, dinner, attire, style
+bluetooth,wireless, connectivity, technology, device, pairing, communication, audio, headphones, speakers, IoT
+bluetooth-b,wireless, connectivity, technology, device, pairing, communication, audio, headphones, speakers, IoT
+btc,bitcoin, cryptocurrency, digital, finance, payment, blockchain, investment, trading, wallet, mining
+buysellads,advertising, monetization, platform, publisher, marketer, revenue, online, digital, business, marketing
