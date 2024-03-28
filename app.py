@@ -76,6 +76,44 @@ def find_best_matching_icons_for_paragraphs(paragraphs, icon_embeddings, model, 
     
     return results
 
+def assign_icons_based_on_closest_match(paragraph_matches):
+    assigned_icons = {}
+    icon_votes = {}
+
+    # Step 1: Collect votes for each icon based on their distance (similarity)
+    for paragraph_id, matches in paragraph_matches.items():
+        for icon, similarity in matches:
+            if icon not in icon_votes:
+                icon_votes[icon] = []
+            icon_votes[icon].append((paragraph_id, similarity))
+    
+    # Step 2: Sort votes for each icon by similarity, highest first
+    for icon in icon_votes:
+        icon_votes[icon].sort(key=lambda x: x[1], reverse=True)
+    
+    # Step 3: Assign icons to paragraphs based on the closest match
+    while icon_votes:
+        for icon in list(icon_votes.keys()):  # Iterate over a static list of keys
+            if icon not in icon_votes:  # Check if the icon still exists
+                continue  # If not, skip to the next icon
+            votes = icon_votes[icon]
+            top_vote = votes[0]
+            paragraph_id = top_vote[0]
+            if paragraph_id not in assigned_icons:
+                assigned_icons[paragraph_id] = icon
+                del icon_votes[icon]  # Safely remove the icon
+            else:
+                votes.pop(0)  # Remove the top vote and reconsider in the next iteration
+                if not votes:
+                    del icon_votes[icon]  # Safely remove the icon if no more votes
+
+
+    # Step 4: Prepare final results
+    final_results = {pid: [] for pid in paragraph_matches.keys()}
+    for paragraph_id, icon in assigned_icons.items():
+        final_results[paragraph_id].append((icon, next((s for i, s in paragraph_matches[paragraph_id] if i == icon), None)))
+
+    return final_results
 
 # Example usage
 if __name__ == "__main__":
@@ -100,21 +138,20 @@ if __name__ == "__main__":
         "Mentoring and coaching the organization on architectural concepts is important for successful implementation."
     ]
 
-    # Measure execution time
+    # Measure execution time for finding matches
     start_time = time.time()
 
-    # Find best matches
-    best_matches = find_best_matching_icons_for_paragraphs(paragraphs, icon_embeddings, ft_model, top_n=5)
+    # Find best matches for paragraphs
+    paragraph_matches = find_best_matching_icons_for_paragraphs(paragraphs, icon_embeddings, ft_model, top_n=5)
 
-    # Display results
-    for paragraph, matches in best_matches.items():
+    # Assign icons based on the closest matches
+    final_assignments = assign_icons_based_on_closest_match(paragraph_matches)
+
+    # Display the final assignments
+    for paragraph, icons in final_assignments.items():
         print(f"\n{paragraph}:")
-        for icon, score in matches:
+        for icon, score in icons:
             print(f"  {icon}: {score:.4f}")
 
     end_time = time.time()
     print(f"\nTotal Execution Time: {end_time - start_time:.2f} seconds")
-
-    # Find the best matching icon
-    #best_match, score = find_best_matching_icon(processed_input, icon_embeddings, ft_model)
-    #print(f"Best matching icon: {best_match} with a score of {score}")

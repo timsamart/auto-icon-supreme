@@ -67,6 +67,28 @@ Auto-Icon Supreme is versatile, with scripts supporting various functionalities 
   python app.py
   ```
 
+### `assign_icons_based_on_closest_match` Function Description
+
+The `assign_icons_based_on_closest_match` function is a key component of our application designed to intelligently assign icons to paragraphs based on thematic similarity. This process is essential for enhancing the visual appeal and intuitive understanding of text content. Here's how the function works:
+
+#### Overview
+
+Given a mapping of paragraph identifiers to lists of potential icons and their similarity scores, this function determines the most appropriate icon for each paragraph. It ensures that each paragraph is paired with the icon that best represents its content, based on the calculated similarities.
+
+#### How It Operates
+
+1. **Collecting Votes:** Initially, the function collects "votes" for each icon. Each vote is essentially a record of how closely an icon matches a paragraph, quantified by a similarity score. Icons gather votes from all paragraphs they are potential matches for, allowing for a comprehensive assessment of where they fit best.
+
+2. **Sorting Votes:** Once all votes are in, they are sorted by their similarity scores in descending order. This sorting ensures that the strongest matches are considered first when assigning icons to paragraphs.
+
+3. **Assigning Icons:** The function then proceeds to assign icons to paragraphs. The assignment process respects the principle of closest match, meaning each paragraph is paired with the icon that has the highest similarity score for it. If an icon is the best match for multiple paragraphs, it is assigned to the paragraph where it fits best, and then it is no longer available for other paragraphs. This step is iteratively repeated until all feasible assignments are made, considering that some paragraphs might not receive an icon if suitable matches are exhausted.
+
+4. **Preparing Final Results:** Finally, the function organizes the assignment results into a structured format. For each paragraph, it lists the assigned icon and the similarity score that justified the assignment. This structured result set is ready for further use in the application, such as displaying the icons alongside the corresponding paragraphs to visually represent the content.
+
+#### Purpose and Benefit
+
+By implementing this functionality, our application enriches text content with visual cues that enhance reader comprehension and engagement. It leverages the semantic relationships between text and icons to create a more intuitive and visually engaging presentation of information.
+
 ### Output
 The output for the sample paragraphs:
 
@@ -91,103 +113,55 @@ The output for the sample paragraphs:
 
 ```bash
 Execution time: 0.0030 seconds
-Execution time: 0.0020 seconds
-Execution time: 0.0033 seconds
-Execution time: 0.0020 seconds
-Execution time: 0.0030 seconds
-Execution time: 0.0020 seconds
-Execution time: 0.0030 seconds
-Execution time: 0.0065 seconds
-Execution time: 0.0020 seconds
-Execution time: 0.0020 seconds
+Execution time: 0.0010 seconds
+Execution time: 0.0010 seconds
+Execution time: 0.0015 seconds
+Execution time: 0.0716 seconds
+Execution time: 0.0035 seconds
 Execution time: 0.0025 seconds
-Execution time: 0.0030 seconds
+Execution time: 0.0025 seconds
+Execution time: 0.0010 seconds
+Execution time: 0.0010 seconds
+Execution time: 0.0010 seconds
+Execution time: 0.0010 seconds
 
 Paragraph 1:
   sort-amount-desc: 0.6336
-  chain: 0.6263
-  sort-amount-asc: 0.6257
-  eye: 0.6179
-  info: 0.5964
 
 Paragraph 2:
-  calendar: 0.6018
-  chain: 0.6001
   cogs: 0.5875
-  institution: 0.5724
-  puzzle-piece: 0.5660
 
 Paragraph 3:
-  calendar: 0.6075
-  calendar-check-o: 0.5444
-  check-square-o: 0.5416
-  check-square: 0.5416
   toggle-on: 0.5404
 
 Paragraph 4:
-  calendar: 0.6393
-  check-circle-o: 0.6327
-  check-circle: 0.6079
   puzzle-piece: 0.5939
-  check-square-o: 0.5911
 
 Paragraph 5:
-  calendar: 0.6745
-  check-circle-o: 0.6627
   check-circle: 0.6534
-  check-square-o: 0.6466
-  check-square: 0.6466
 
 Paragraph 6:
-  chain: 0.6201
-  calendar: 0.6165
   chain-broken: 0.5925
-  check-circle-o: 0.5872
-  ellipsis-v: 0.5718
 
 Paragraph 7:
   industry: 0.6468
-  calendar-plus-o: 0.6389
-  question-circle-o: 0.6377
-  calendar: 0.6290
-  chain: 0.6248
 
 Paragraph 8:
-  cart-plus: 0.7088
   calendar-plus-o: 0.6941
-  cog: 0.6668
-  calendar: 0.6652
-  edit: 0.6463
 
 Paragraph 9:
   check-circle-o: 0.6832
-  check-circle: 0.6789
-  check-square: 0.6505
-  check-square-o: 0.6505
-  check: 0.6501
 
 Paragraph 10:
-  check-circle-o: 0.6254
   question-circle-o: 0.6119
-  institution: 0.6108
-  check-circle: 0.6037
-  chain: 0.6024
 
 Paragraph 11:
   calendar: 0.7168
-  calendar-check-o: 0.6607
-  check-square-o: 0.6580
-  check-square: 0.6580
-  check-circle-o: 0.6488
 
 Paragraph 12:
-  free-code-camp: 0.6695
-  question-circle-o: 0.6348
   institution: 0.6330
-  briefcase: 0.6223
-  universal-access: 0.6216
 
-Total Execution Time: 0.05 seconds
+Total Execution Time: 0.26 seconds
 ```
 
 ### Advanced Features
