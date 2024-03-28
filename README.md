@@ -9,7 +9,7 @@ These instructions will guide you through setting up Auto-Icon Supreme on your l
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Python 3.8 or newer
+- Python 3.8 or newer (I used 3.11)
 - pip, Python's package installer
 
 For a smoother experience, familiarity with virtual environments in Python is beneficial but not mandatory.
@@ -66,6 +66,129 @@ Auto-Icon Supreme is versatile, with scripts supporting various functionalities 
   ```bash
   python app.py
   ```
+
+### Output
+The output for the sample paragraphs:
+
+```python
+    paragraphs = [
+        "Enterprise architecture is about understanding the value chain and how individual activities lead to value for the business.",
+        "Understanding the business model, distribution channels, and operations is crucial for building flexible IT architecture.",
+        "The reporting line of the CIO can indicate the organization's view on the role of IT - as a cost center or a strategic enabler.",
+        "Aligning IT Strategy and Business Strategy. Aligning IT strategy with business strategy is key, but the strategy must be translated into reality.",
+        "Classifying the business operation model can help determine the appropriate IT strategy, such as containerization.",
+        "Understanding the current state of IT systems, often characterized by silos and lack of flexibility, is necessary for defining the target architecture.",
+        "Designing Flexible Architecture. Applications often lack flexibility to serve local market needs, which could be a source of business value.",
+        "Designing for flexibility, such as through a modular, scalable infrastructure, can unlock new opportunities for the business.",
+        "Understanding the value of options and flexibility can help justify investments in architecture, even if the immediate benefits are not obvious.",
+        "Governance is essential to ensure that the reality matches the architectural roadmap.",
+        "Feedback and adjustment cycles are crucial, as enterprise architecture is not a one-time exercise.",
+        "Mentoring and coaching the organization on architectural concepts is important for successful implementation."
+    ]
+```
+
+**OUTPUT:**
+
+```bash
+Execution time: 0.0030 seconds
+Execution time: 0.0020 seconds
+Execution time: 0.0033 seconds
+Execution time: 0.0020 seconds
+Execution time: 0.0030 seconds
+Execution time: 0.0020 seconds
+Execution time: 0.0030 seconds
+Execution time: 0.0065 seconds
+Execution time: 0.0020 seconds
+Execution time: 0.0020 seconds
+Execution time: 0.0025 seconds
+Execution time: 0.0030 seconds
+
+Paragraph 1:
+  sort-amount-desc: 0.6336
+  chain: 0.6263
+  sort-amount-asc: 0.6257
+  eye: 0.6179
+  info: 0.5964
+
+Paragraph 2:
+  calendar: 0.6018
+  chain: 0.6001
+  cogs: 0.5875
+  institution: 0.5724
+  puzzle-piece: 0.5660
+
+Paragraph 3:
+  calendar: 0.6075
+  calendar-check-o: 0.5444
+  check-square-o: 0.5416
+  check-square: 0.5416
+  toggle-on: 0.5404
+
+Paragraph 4:
+  calendar: 0.6393
+  check-circle-o: 0.6327
+  check-circle: 0.6079
+  puzzle-piece: 0.5939
+  check-square-o: 0.5911
+
+Paragraph 5:
+  calendar: 0.6745
+  check-circle-o: 0.6627
+  check-circle: 0.6534
+  check-square-o: 0.6466
+  check-square: 0.6466
+
+Paragraph 6:
+  chain: 0.6201
+  calendar: 0.6165
+  chain-broken: 0.5925
+  check-circle-o: 0.5872
+  ellipsis-v: 0.5718
+
+Paragraph 7:
+  industry: 0.6468
+  calendar-plus-o: 0.6389
+  question-circle-o: 0.6377
+  calendar: 0.6290
+  chain: 0.6248
+
+Paragraph 8:
+  cart-plus: 0.7088
+  calendar-plus-o: 0.6941
+  cog: 0.6668
+  calendar: 0.6652
+  edit: 0.6463
+
+Paragraph 9:
+  check-circle-o: 0.6832
+  check-circle: 0.6789
+  check-square: 0.6505
+  check-square-o: 0.6505
+  check: 0.6501
+
+Paragraph 10:
+  check-circle-o: 0.6254
+  question-circle-o: 0.6119
+  institution: 0.6108
+  check-circle: 0.6037
+  chain: 0.6024
+
+Paragraph 11:
+  calendar: 0.7168
+  calendar-check-o: 0.6607
+  check-square-o: 0.6580
+  check-square: 0.6580
+  check-circle-o: 0.6488
+
+Paragraph 12:
+  free-code-camp: 0.6695
+  question-circle-o: 0.6348
+  institution: 0.6330
+  briefcase: 0.6223
+  universal-access: 0.6216
+
+Total Execution Time: 0.05 seconds
+```
 
 ### Advanced Features
 
